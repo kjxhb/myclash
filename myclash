@@ -154,7 +154,7 @@ proxies:
   - {name: github.com/Ruk1ng001_6662653563396462, server: zx2.1010520.xyz, port: 23781, type: ss, cipher: chacha20-ietf-poly1305, password: f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}
   - {name: 香港1github.com/Ruk1ng001_6664383761336561, server: console.02.aliyun.aq.kunlunaqs.com, port: 45578, type: ss, cipher: chacha20-ietf-poly1305, password: 7243745919d6de49a5db, plugin: obfs, plugin-opts: {mode: http, host: 215996dd9f1c3db1e54b.microsoft.com}, udp: true}
   - {name: github.com/Ruk1ng001_6664636434326431, server: gdgs.tarioblink.me, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: ba9d2c35-523c-459e-b288-b7103d106d29, udp: true}
-  - {name:香港3github.com/Ruk1ng001_6331346139396466, server: 112.213.102.228, port: 4231, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 香港3github.com/Ruk1ng001_6331346139396466, server: 112.213.102.228, port: 4231, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
   - {name: ❓_🇨🇳_📶_github.com/Ruk1ng001_62393330633839, server: 183.236.51.36, port: 59003, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: ❓_🇩🇪_💼_github.com/Ruk1ng001_3261613139626632, server: 51.44.100.147, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
   - {name: ❓_🇫🇷_💼_github.com/Ruk1ng001_6635386461346265, server: 13.38.254.180, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
@@ -330,7 +330,7 @@ proxy-groups:
       - github.com/Ruk1ng001_6662653563396462
       - 香港1github.com/Ruk1ng001_6664383761336561
       - github.com/Ruk1ng001_6664636434326431
-      -香港3github.com/Ruk1ng001_6331346139396466
+      - 香港3github.com/Ruk1ng001_6331346139396466
       - ❓_🇨🇳_📶_github.com/Ruk1ng001_62393330633839
       - ❓_🇩🇪_💼_github.com/Ruk1ng001_3261613139626632
       - ❓_🇫🇷_💼_github.com/Ruk1ng001_6635386461346265
@@ -503,7 +503,7 @@ proxy-groups:
       - github.com/Ruk1ng001_6662653563396462
       - 香港1github.com/Ruk1ng001_6664383761336561
       - github.com/Ruk1ng001_6664636434326431
-      -香港3github.com/Ruk1ng001_6331346139396466
+      - 香港3github.com/Ruk1ng001_6331346139396466
       - ❓_🇨🇳_📶_github.com/Ruk1ng001_62393330633839
       - ❓_🇩🇪_💼_github.com/Ruk1ng001_3261613139626632
       - ❓_🇫🇷_💼_github.com/Ruk1ng001_6635386461346265
