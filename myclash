@@ -10,15 +10,15 @@ dns:
     - 119.29.29.29
     - 223.5.5.5
   fallback:
-    - 8.8.8.8    - 8.8.8.8
+    - 8.8.8.8
     - 8.8.4.4
     - tls://1.0.0.1:853
     - tls://dns.google:853
-proxies:proxies:
-  - {name: 香港😈3259106375, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, udp: true}  - {name: 香港😈3259106375, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, udp: true}
+proxies:
+  - {name: 香港😈3259106375, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, udp: true}
   - {name: _🇨🇳:🇭🇰_💻3439326636336437, server: 202.162.109.169, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
   - {name: _🇨🇳_💼3139313335626131, server: 47.104.186.133, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_💼3364613832643362, server: 47.92.152.169, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}  - {name: _🇨🇳_💼3364613832643362, server: 47.92.152.169, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: _🇨🇳_💼3364613832643362, server: 47.92.152.169, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _🇨🇳_📶3464303266646232, server: 120.234.102.229, port: 52908, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _🇨🇳_📶3531313366353939, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _🇨🇳_📶3834623433633230, server: 112.132.215.12, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, servername: ury-unit-c030ehei8.poget71138.workers.dev, udp: true}
