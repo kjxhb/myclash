@@ -1,4 +1,4 @@
- port: 7890
+port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
@@ -14,9 +14,8 @@ dns:
     - 8.8.4.4
     - tls://1.0.0.1:853
     - tls://dns.google:853
-
 proxies:
-  - {name: 香港😈github.com/Ruk1ng001_3259106375, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, udp: true}
+  - {name: 香港😈github.com/Ruk1ng001_3259106375香港😈github.com/Ruk1ng001_3259106375, server: 120.232.81.50, port: 16088, type: ssss, cipher: aes-256-cfbaes-256-cfb, password: hGkQ6915tDhGkQ6915tD, udp: truetrue}
   - {name: _🇨🇳_📶_github.com/Ruk1ng001_3464303266646232, server: 120.234.102.229, port: 52908, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _🇵🇱_💻_github.com/Ruk1ng001_3266343765386364, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true}
   - {name: _🇵🇱_💻_github.com/Ruk1ng001_3932616464636538, server: 217.30.10.18, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true}
@@ -31,7 +30,7 @@ proxy-groups:
     interval: 300
     tolerance: 10
     proxies:
-      - 香港😈github.com/Ruk1ng001_3259106375
+      - 香港😈github.com/Ruk1ng001_3259106375香港😈github.com/Ruk1ng001_3259106375
       - _🇨🇳_📶_github.com/Ruk1ng001_3464303266646232
       - _🇵🇱_💻_github.com/Ruk1ng001_3266343765386364
       - _🇵🇱_💻_github.com/Ruk1ng001_3932616464636538
@@ -43,7 +42,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 香港😈github.com/Ruk1ng001_3259106375
+      - 香港😈github.com/Ruk1ng001_3259106375香港😈github.com/Ruk1ng001_3259106375
       - _🇨🇳_📶_github.com/Ruk1ng001_3464303266646232
       - _🇵🇱_💻_github.com/Ruk1ng001_3266343765386364
       - _🇵🇱_💻_github.com/Ruk1ng001_3932616464636538
