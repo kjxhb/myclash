@@ -16,99 +16,99 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 香港😈3259106375, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, udp: true}
-  - {name: _🇨🇳:🇭🇰_💻3439326636336437, server: 202.162.109.169, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
-  - {name: _🇨🇳_💼3139313335626131, server: 47.104.186.133, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_💼3364613832643362, server: 47.92.152.169, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶3464303266646232, server: 120.234.102.229, port: 52908, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶3531313366353939, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶3834623433633230, server: 112.132.215.12, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, servername: ury-unit-c030ehei8.poget71138.workers.dev, udp: true}
-  - {name: _🇨🇳_📶6131613864316532, server: 183.236.51.23, port: 54104, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶6135386464616234, server: 183.236.51.23, port: 53002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶6236623632383862, server: 183.236.51.23, port: 51704, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶63643864303034, server: 112.132.212.19, port: 50004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶6466613664336630, server: 183.236.51.23, port: 46602, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶6538373565333832, server: 120.232.153.63, port: 40972, type: vmess, uuid: 770ee730-2450-4e3c-a6c6-3932bd32afbd, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇨🇳_📶6636623261326665, server: 183.236.51.23, port: 56601, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇩🇪_💻3130336332616630, server: 23.88.37.31, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LuxyNetBot, udp: true}
-  - {name: _🇩🇪_💻3766653337393936, server: 77.105.147.212, port: 55098, type: ss, cipher: chacha20-ietf-poly1305, password: NChVdloynewtqS0847jui6PQejHLO3gUuw1tnUmYVPI=, udp: true}
-  - {name: _🇩🇪_💼3433633764363533, server: 3.125.249.20, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: _🇬🇧_💼3563386161376562, server: 5.39.254.196, port: 23169, type: vmess, uuid: 398ce84e-4849-4e5f-9b1a-a56fbe233b81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: _🇮🇪_💼3563333936653061, server: 34.242.67.151, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: _🇮🇪_💼6436313232353264, server: 34.249.240.107, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: _🇮🇷_📶6630323866343830, server: 92.242.220.22, port: 37885, type: vmess, uuid: 8dee19ab-50ce-4d06-be42-5e53c8989ccc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: _🇯🇵_💼3130323363343564, server: 54.178.84.59, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇯🇵_💼3630663837626639, server: 54.95.142.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇯🇵_💼3935623663323134, server: 54.238.219.226, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇯🇵_💼6132373630353531, server: 3.113.31.223, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇯🇵_💼6262653638613366, server: 3.112.236.3, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇯🇵_💼6661393035313639, server: 54.249.152.9, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇰🇷_💼3162343530363866, server: 168.126.234.232, port: 25415, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼31626166323638, server: 27.255.82.23, port: 5412, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3164353964643961, server: 168.126.234.233, port: 40915, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3234353735663236, server: 221.168.44.72, port: 28139, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3265333536376666, server: 125.141.26.14, port: 40244, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3332613365333235, server: 168.126.234.230, port: 25730, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3564316531666435, server: 222.112.15.140, port: 43249, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3566333632316237, server: 121.170.203.136, port: 7018, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3634656133646338, server: 222.112.15.142, port: 7303, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3666386331363633, server: 3.35.206.24, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇰🇷_💼3731356561653263, server: 221.150.109.90, port: 41748, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3765666563366634, server: 121.170.203.147, port: 2003, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇰🇷_💼3837366164313862, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇰🇷_💼6463663530333539, server: 121.170.203.148, port: 2003, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇳🇱_💻6134383632343963, server: 208.67.105.87, port: 42501, type: ss, cipher: chacha20-ietf-poly1305, password: nq96KftrZAj3LuFQESqmn44Mo5oCuo2cipoEsae25mrmHG2oJ4VT37scBfVBpN5DWtUELZutVhhXs8Le5B8fZ9hLn9ytwvbf, udp: true}
-  - {name: _🇳🇱_💼3633636131313362, server: 103.106.1.92, port: 23492, type: ss, cipher: chacha20-ietf-poly1305, password: yMX9WGPgUEcRZmlaa0YHHC, udp: true}
-  - {name: _🇵🇱_💻3266343765386364, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true}
-  - {name: _🇵🇱_💻3336303732313433, server: 217.30.10.18, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
-  - {name: _🇵🇱_💻3434353235353663, server: 217.30.10.18, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, udp: true}
-  - {name: _🇵🇱_💻3439653661313335, server: 217.30.10.18, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true}
-  - {name: _🇵🇱_💻3465313563613063, server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true}
-  - {name: _🇵🇱_💻3831386139306463, server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true}
-  - {name: _🇵🇱_💻3832366134343438, server: 217.30.10.18, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn, udp: true}
-  - {name: _🇵🇱_💻3839316239316165, server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true}
-  - {name: _🇵🇱_💻3932616464636538, server: 217.30.10.18, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true}
-  - {name: _🇵🇱_💻3936643338633636, server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true}
-  - {name: _🇵🇱_💻6132646534346266, server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA, udp: true}
-  - {name: _🇵🇱_💻6336356138336535, server: 217.30.10.18, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true}
-  - {name: _🇵🇱_💻6363373033653961, server: 217.30.10.18, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true}
-  - {name: _🇵🇱_💻6365366131313862, server: 217.30.10.18, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, udp: true}
-  - {name: _🇵🇱_💻6437656163366337, server: 217.30.10.18, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true}
-  - {name: _🇵🇱_💻6530306337396162, server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true}
-  - {name: _🇵🇱_💻6534616130396562, server: 217.30.10.18, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY, udp: true}
-  - {name: _🇵🇱_💻6634326632396661, server: 217.30.10.18, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, udp: true}
-  - {name: _🇵🇱_💻6665323065373137, server: 217.30.10.18, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true}
-  - {name: _🇷🇺_💻3134326466326337, server: 185.22.155.228, port: 23456, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com, udp: true}
-  - {name: _🇷🇺_💻3532393732663939, server: 45.8.158.32, port: 14556, type: vmess, uuid: 398ce84e-4849-4e5f-9b1a-a56fbe233b81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: _🇸🇬_💼3332356563356465, server: 54.169.231.25, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇸🇬_💼3566613766373364, server: 54.151.212.176, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💻3361656633616538, server: 172.67.164.232, port: 443, type: vmess, uuid: 33f6d8b0-81f8-4fce-b3df-79dc8fd6d8c5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: "/rongseven?ed=2048", headers: {Host: 33.bycf.us.kg}}, udp: true}
-  - {name: _🇺🇸_💻3531653066343435, server: 107.175.70.80, port: 8848, type: trojan, password: 023f7aa2-d079-40d8-a730-c681947f10bb, sni: 107.175.70.80, skip-cert-verify: false, udp: true}
-  - {name: _🇺🇸_💻3631363636633338, server: 193.106.248.196, port: 443, type: trojan, password: Julius, sni: miami.juliusnet.com, skip-cert-verify: false, udp: true}
-  - {name: _🇺🇸_💻36653630386133, server: 38.110.1.46, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: _🇺🇸_💻3732323566663631, server: 108.181.1.245, port: 4231, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: _🇺🇸_💻3930656534353832, server: 104.26.9.227, port: 443, type: trojan, password: b80Iy90Fma, sni: usa03.rtx.al, skip-cert-verify: false, network: ws, ws-opts: {path: /cfyyds, headers: {Host: usa03.rtx.al}}, udp: true}
-  - {name: _🇺🇸_💼3162623339613236, server: 34.219.80.203, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3164626237333461, server: 35.93.31.33, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3166326239313863, server: 34.222.136.128, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3166383264306531, server: 34.222.132.123, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3236386366363837, server: 35.94.113.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3238346466303261, server: 54.244.200.142, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3264643335633765, server: 54.69.180.74, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3464396461653736, server: 54.245.207.144, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3537323463393038, server: 35.90.249.116, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3562363531386463, server: 54.186.92.34, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3562383061353564, server: 34.213.242.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3634656563313065, server: 54.202.77.81, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3663366562316636, server: 52.89.164.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3739333364333534, server: 54.200.223.152, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3830353535353731, server: 34.216.172.180, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼3861386530353737, server: 35.91.128.246, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼6134353539343461, server: 54.201.172.79, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼6166653264353633, server: 35.92.45.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼6239353666393634, server: 35.85.36.208, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼64333461373165, server: 35.161.59.194, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼6434623336323963, server: 35.85.33.177, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _🇺🇸_💼6465366630653936, server: 34.211.229.86, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 💻3439326636336437, server: 202.162.109.169, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
+  - {name: 🇨🇳💼3139313335626131, server: 47.104.186.133, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳💼3364613832643362, server: 47.92.152.169, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶3464303266646232, server: 120.234.102.229, port: 52908, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶3531313366353939, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶3834623433633230, server: 112.132.215.12, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, servername: ury-unit-c030ehei8.poget71138.workers.dev, udp: true}
+  - {name: 🇨🇳📶6131613864316532, server: 183.236.51.23, port: 54104, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶6135386464616234, server: 183.236.51.23, port: 53002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶6236623632383862, server: 183.236.51.23, port: 51704, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶63643864303034, server: 112.132.212.19, port: 50004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶6466613664336630, server: 183.236.51.23, port: 46602, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶6538373565333832, server: 120.232.153.63, port: 40972, type: vmess, uuid: 770ee730-2450-4e3c-a6c6-3932bd32afbd, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳📶6636623261326665, server: 183.236.51.23, port: 56601, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪💻3130336332616630, server: 23.88.37.31, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LuxyNetBot, udp: true}
+  - {name: 🇩🇪💻3766653337393936, server: 77.105.147.212, port: 55098, type: ss, cipher: chacha20-ietf-poly1305, password: NChVdloynewtqS0847jui6PQejHLO3gUuw1tnUmYVPI=, udp: true}
+  - {name: 🇩🇪💼3433633764363533, server: 3.125.249.20, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧💼3563386161376562, server: 5.39.254.196, port: 23169, type: vmess, uuid: 398ce84e-4849-4e5f-9b1a-a56fbe233b81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇮🇪💼3563333936653061, server: 34.242.67.151, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇪💼6436313232353264, server: 34.249.240.107, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷📶6630323866343830, server: 92.242.220.22, port: 37885, type: vmess, uuid: 8dee19ab-50ce-4d06-be42-5e53c8989ccc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵💼3130323363343564, server: 54.178.84.59, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼3630663837626639, server: 54.95.142.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼3935623663323134, server: 54.238.219.226, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼6132373630353531, server: 3.113.31.223, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼6262653638613366, server: 3.112.236.3, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼6661393035313639, server: 54.249.152.9, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇰🇷💼3162343530363866, server: 168.126.234.232, port: 25415, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼31626166323638, server: 27.255.82.23, port: 5412, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3164353964643961, server: 168.126.234.233, port: 40915, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3234353735663236, server: 221.168.44.72, port: 28139, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3265333536376666, server: 125.141.26.14, port: 40244, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3332613365333235, server: 168.126.234.230, port: 25730, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3564316531666435, server: 222.112.15.140, port: 43249, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3566333632316237, server: 121.170.203.136, port: 7018, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3634656133646338, server: 222.112.15.142, port: 7303, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3666386331363633, server: 3.35.206.24, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇰🇷💼3731356561653263, server: 221.150.109.90, port: 41748, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3765666563366634, server: 121.170.203.147, port: 2003, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼3837366164313862, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇰🇷💼6463663530333539, server: 121.170.203.148, port: 2003, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇳🇱💻6134383632343963, server: 208.67.105.87, port: 42501, type: ss, cipher: chacha20-ietf-poly1305, password: nq96KftrZAj3LuFQESqmn44Mo5oCuo2cipoEsae25mrmHG2oJ4VT37scBfVBpN5DWtUELZutVhhXs8Le5B8fZ9hLn9ytwvbf, udp: true}
+  - {name: 🇳🇱💼3633636131313362, server: 103.106.1.92, port: 23492, type: ss, cipher: chacha20-ietf-poly1305, password: yMX9WGPgUEcRZmlaa0YHHC, udp: true}
+  - {name: 🇵🇱💻3266343765386364, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true}
+  - {name: 🇵🇱💻3336303732313433, server: 217.30.10.18, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
+  - {name: 🇵🇱💻3434353235353663, server: 217.30.10.18, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, udp: true}
+  - {name: 🇵🇱💻3439653661313335, server: 217.30.10.18, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true}
+  - {name: 🇵🇱💻3465313563613063, server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true}
+  - {name: 🇵🇱💻3831386139306463, server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true}
+  - {name: 🇵🇱💻3832366134343438, server: 217.30.10.18, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn, udp: true}
+  - {name: 🇵🇱💻3839316239316165, server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true}
+  - {name: 🇵🇱💻3932616464636538, server: 217.30.10.18, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true}
+  - {name: 🇵🇱💻3936643338633636, server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true}
+  - {name: 🇵🇱💻6132646534346266, server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA, udp: true}
+  - {name: 🇵🇱💻6336356138336535, server: 217.30.10.18, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true}
+  - {name: 🇵🇱💻6363373033653961, server: 217.30.10.18, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true}
+  - {name: 🇵🇱💻6365366131313862, server: 217.30.10.18, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, udp: true}
+  - {name: 🇵🇱💻6437656163366337, server: 217.30.10.18, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true}
+  - {name: 🇵🇱💻6530306337396162, server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true}
+  - {name: 🇵🇱💻6534616130396562, server: 217.30.10.18, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY, udp: true}
+  - {name: 🇵🇱💻6634326632396661, server: 217.30.10.18, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, udp: true}
+  - {name: 🇵🇱💻6665323065373137, server: 217.30.10.18, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true}
+  - {name: 🇷🇺💻3134326466326337, server: 185.22.155.228, port: 23456, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com, udp: true}
+  - {name: 🇷🇺💻3532393732663939, server: 45.8.158.32, port: 14556, type: vmess, uuid: 398ce84e-4849-4e5f-9b1a-a56fbe233b81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇸🇬💼3332356563356465, server: 54.169.231.25, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇸🇬💼3566613766373364, server: 54.151.212.176, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💻3361656633616538, server: 172.67.164.232, port: 443, type: vmess, uuid: 33f6d8b0-81f8-4fce-b3df-79dc8fd6d8c5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: "/rongseven?ed=2048", headers: {Host: 33.bycf.us.kg}}, udp: true}
+  - {name: 🇺🇸💻3531653066343435, server: 107.175.70.80, port: 8848, type: trojan, password: 023f7aa2-d079-40d8-a730-c681947f10bb, sni: 107.175.70.80, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸💻3631363636633338, server: 193.106.248.196, port: 443, type: trojan, password: Julius, sni: miami.juliusnet.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸💻36653630386133, server: 38.110.1.46, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 🇺🇸💻3732323566663631, server: 108.181.1.245, port: 4231, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇺🇸💻3930656534353832, server: 104.26.9.227, port: 443, type: trojan, password: b80Iy90Fma, sni: usa03.rtx.al, skip-cert-verify: false, network: ws, ws-opts: {path: /cfyyds, headers: {Host: usa03.rtx.al}}, udp: true}
+  - {name: 🇺🇸💼3162623339613236, server: 34.219.80.203, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3164626237333461, server: 35.93.31.33, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3166326239313863, server: 34.222.136.128, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3166383264306531, server: 34.222.132.123, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3236386366363837, server: 35.94.113.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3238346466303261, server: 54.244.200.142, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3264643335633765, server: 54.69.180.74, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3464396461653736, server: 54.245.207.144, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3537323463393038, server: 35.90.249.116, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3562363531386463, server: 54.186.92.34, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3562383061353564, server: 34.213.242.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3634656563313065, server: 54.202.77.81, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3663366562316636, server: 52.89.164.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3739333364333534, server: 54.200.223.152, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3830353535353731, server: 34.216.172.180, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼3861386530353737, server: 35.91.128.246, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼6134353539343461, server: 54.201.172.79, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼6166653264353633, server: 35.92.45.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼6239353666393634, server: 35.85.36.208, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼64333461373165, server: 35.161.59.194, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼6434623336323963, server: 35.85.33.177, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼6465366630653936, server: 34.211.229.86, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 3130346466656639, server: zx2.1010520.xyz, port: 26436, type: ss, cipher: chacha20-ietf-poly1305, password: f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}
   - {name: 3137343361343631, server: tj-hk-2.aikunapp.com, port: 6001, type: trojan, password: 96cad374-7573-4463-8804-4665c2c3d932, sni: ho82IA13QmjF5Atv.apple.com, skip-cert-verify: false, udp: true}
   - {name: 3161333566636138, server: 185.190.250.103, port: 57328, type: ss, cipher: chacha20-ietf-poly1305, password: xzlOqy2v6vJ0XvFTN8zIBH, udp: true}
@@ -154,137 +154,137 @@ proxies:
   - {name: 6662653563396462, server: zx2.1010520.xyz, port: 23781, type: ss, cipher: chacha20-ietf-poly1305, password: f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}
   - {name: 6664383761336561, server: console.02.aliyun.aq.kunlunaqs.com, port: 45578, type: ss, cipher: chacha20-ietf-poly1305, password: 7243745919d6de49a5db, plugin: obfs, plugin-opts: {mode: http, host: 215996dd9f1c3db1e54b.microsoft.com}, udp: true}
   - {name: 6664636434326431, server: gdgs.tarioblink.me, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: ba9d2c35-523c-459e-b288-b7103d106d29, udp: true}
-  - {name: ❓_🇨🇳:🇭🇰_💻6331346139396466, server: 112.213.102.228, port: 4231, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: ❓_🇨🇳_📶62393330633839, server: 183.236.51.36, port: 59003, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: ❓_🇩🇪_💼3261613139626632, server: 51.44.100.147, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: ❓_🇫🇷_💼6635386461346265, server: 13.38.254.180, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: ❓_🇬🇧_💼3936363630613839, server: 13.43.18.60, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: ❓_🇯🇵_💼3163316635666166, server: 52.69.160.222, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇯🇵_💼3362356662356637, server: 13.114.140.185, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇯🇵_💼3363336538653764, server: 18.181.162.137, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇯🇵_💼3466623133353738, server: 52.194.212.235, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇯🇵_💼3630316666613538, server: 52.68.33.227, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇯🇵_💼6435353730343365, server: 57.180.61.213, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇯🇵_💼6537633933356439, server: 43.206.231.196, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇯🇵_💼6564666530653531, server: 43.207.155.224, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇰🇷_🌀6562633138333461, server: 61.255.174.173, port: 58368, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: ❓_🇰🇷_💼6664643562346432, server: 52.79.73.137, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇰🇷_📶38316338306633, server: 221.139.79.41, port: 6435, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: ❓_🇰🇷_📶3930663730623733, server: 221.139.79.20, port: 51199, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: ❓_🇰🇷_📶6630633530376464, server: 218.234.149.9, port: 2105, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: ❓_🇵🇱_📶3439333137313464, server: 91.206.179.179, port: 443, type: trojan, password: !!str 3723507166611775488, sni: holy-seahorse.boa152.lol, skip-cert-verify: false, udp: true}
-  - {name: ❓_🇸🇪_💼3234353431303434, server: 13.48.187.5, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: ❓_🇸🇪_💼6464343430643039, server: 13.51.88.59, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: ❓_🇸🇬_💼3132373361313337, server: 18.142.246.34, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇸🇬_💼6230656133373262, server: 13.212.194.118, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇸🇬_💼6262346630306365, server: 13.250.115.217, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇸🇬_💼6432303731393565, server: 13.250.47.75, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇺🇸_💻3538383234646439, server: 199.232.214.133, port: 443, type: vmess, uuid: e5852393-ca52-4c90-a237-d63cbbb57f21, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /farcry, headers: {Host: loki.oracle}}, udp: true}
-  - {name: ❓_🇺🇸_💻6535363436373931, server: 199.119.200.67, port: 55194, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: ❓_🇺🇸_💼3639383134386336, server: 35.88.126.102, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: ❓_🇺🇸_💼6366613635646539, server: 52.32.68.164, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 💻6331346139396466, server: 112.213.102.228, port: 4231, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇨🇳📶62393330633839, server: 183.236.51.36, port: 59003, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪💼3261613139626632, server: 51.44.100.147, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷💼6635386461346265, server: 13.38.254.180, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧💼3936363630613839, server: 13.43.18.60, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵💼3163316635666166, server: 52.69.160.222, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼3362356662356637, server: 13.114.140.185, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼3363336538653764, server: 18.181.162.137, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼3466623133353738, server: 52.194.212.235, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼3630316666613538, server: 52.68.33.227, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼6435353730343365, server: 57.180.61.213, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼6537633933356439, server: 43.206.231.196, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇯🇵💼6564666530653531, server: 43.207.155.224, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇰🇷🌀6562633138333461, server: 61.255.174.173, port: 58368, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷💼6664643562346432, server: 52.79.73.137, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇰🇷📶38316338306633, server: 221.139.79.41, port: 6435, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷📶3930663730623733, server: 221.139.79.20, port: 51199, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇰🇷📶6630633530376464, server: 218.234.149.9, port: 2105, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇵🇱📶3439333137313464, server: 91.206.179.179, port: 443, type: trojan, password: !!str 3723507166611775488, sni: holy-seahorse.boa152.lol, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇪💼3234353431303434, server: 13.48.187.5, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇪💼6464343430643039, server: 13.51.88.59, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬💼3132373361313337, server: 18.142.246.34, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇸🇬💼6230656133373262, server: 13.212.194.118, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇸🇬💼6262346630306365, server: 13.250.115.217, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇸🇬💼6432303731393565, server: 13.250.47.75, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💻3538383234646439, server: 199.232.214.133, port: 443, type: vmess, uuid: e5852393-ca52-4c90-a237-d63cbbb57f21, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /farcry, headers: {Host: loki.oracle}}, udp: true}
+  - {name: 🇺🇸💻6535363436373931, server: 199.119.200.67, port: 55194, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇺🇸💼3639383134386336, server: 35.88.126.102, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇺🇸💼6366613635646539, server: 52.32.68.164, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
 
 proxy-groups:
   - name: ♻️ 自动选择
     type: url-test
-    url: http://www.google.com/generate_204
+    url: http://www.google.com/generate204
     interval: 300
     tolerance: 10
     proxies:
       - 香港😈3259106375
-      - _🇨🇳:🇭🇰_💻3439326636336437
-      - _🇨🇳_💼3139313335626131
-      - _🇨🇳_💼3364613832643362
-      - _🇨🇳_📶3464303266646232
-      - _🇨🇳_📶3531313366353939
-      - _🇨🇳_📶3834623433633230
-      - _🇨🇳_📶6131613864316532
-      - _🇨🇳_📶6135386464616234
-      - _🇨🇳_📶6236623632383862
-      - _🇨🇳_📶63643864303034
-      - _🇨🇳_📶6466613664336630
-      - _🇨🇳_📶6538373565333832
-      - _🇨🇳_📶6636623261326665
-      - _🇩🇪_💻3130336332616630
-      - _🇩🇪_💻3766653337393936
-      - _🇩🇪_💼3433633764363533
-      - _🇬🇧_💼3563386161376562
-      - _🇮🇪_💼3563333936653061
-      - _🇮🇪_💼6436313232353264
-      - _🇮🇷_📶6630323866343830
-      - _🇯🇵_💼3130323363343564
-      - _🇯🇵_💼3630663837626639
-      - _🇯🇵_💼3935623663323134
-      - _🇯🇵_💼6132373630353531
-      - _🇯🇵_💼6262653638613366
-      - _🇯🇵_💼6661393035313639
-      - _🇰🇷_💼3162343530363866
-      - _🇰🇷_💼31626166323638
-      - _🇰🇷_💼3164353964643961
-      - _🇰🇷_💼3234353735663236
-      - _🇰🇷_💼3265333536376666
-      - _🇰🇷_💼3332613365333235
-      - _🇰🇷_💼3564316531666435
-      - _🇰🇷_💼3566333632316237
-      - _🇰🇷_💼3634656133646338
-      - _🇰🇷_💼3666386331363633
-      - _🇰🇷_💼3731356561653263
-      - _🇰🇷_💼3765666563366634
-      - _🇰🇷_💼3837366164313862
-      - _🇰🇷_💼6463663530333539
-      - _🇳🇱_💻6134383632343963
-      - _🇳🇱_💼3633636131313362
-      - _🇵🇱_💻3266343765386364
-      - _🇵🇱_💻3336303732313433
-      - _🇵🇱_💻3434353235353663
-      - _🇵🇱_💻3439653661313335
-      - _🇵🇱_💻3465313563613063
-      - _🇵🇱_💻3831386139306463
-      - _🇵🇱_💻3832366134343438
-      - _🇵🇱_💻3839316239316165
-      - _🇵🇱_💻3932616464636538
-      - _🇵🇱_💻3936643338633636
-      - _🇵🇱_💻6132646534346266
-      - _🇵🇱_💻6336356138336535
-      - _🇵🇱_💻6363373033653961
-      - _🇵🇱_💻6365366131313862
-      - _🇵🇱_💻6437656163366337
-      - _🇵🇱_💻6530306337396162
-      - _🇵🇱_💻6534616130396562
-      - _🇵🇱_💻6634326632396661
-      - _🇵🇱_💻6665323065373137
-      - _🇷🇺_💻3134326466326337
-      - _🇷🇺_💻3532393732663939
-      - _🇸🇬_💼3332356563356465
-      - _🇸🇬_💼3566613766373364
-      - _🇺🇸_💻3361656633616538
-      - _🇺🇸_💻3531653066343435
-      - _🇺🇸_💻3631363636633338
-      - _🇺🇸_💻36653630386133
-      - _🇺🇸_💻3732323566663631
-      - _🇺🇸_💻3930656534353832
-      - _🇺🇸_💼3162623339613236
-      - _🇺🇸_💼3164626237333461
-      - _🇺🇸_💼3166326239313863
-      - _🇺🇸_💼3166383264306531
-      - _🇺🇸_💼3236386366363837
-      - _🇺🇸_💼3238346466303261
-      - _🇺🇸_💼3264643335633765
-      - _🇺🇸_💼3464396461653736
-      - _🇺🇸_💼3537323463393038
-      - _🇺🇸_💼3562363531386463
-      - _🇺🇸_💼3562383061353564
-      - _🇺🇸_💼3634656563313065
-      - _🇺🇸_💼3663366562316636
-      - _🇺🇸_💼3739333364333534
-      - _🇺🇸_💼3830353535353731
-      - _🇺🇸_💼3861386530353737
-      - _🇺🇸_💼6134353539343461
-      - _🇺🇸_💼6166653264353633
-      - _🇺🇸_💼6239353666393634
-      - _🇺🇸_💼64333461373165
-      - _🇺🇸_💼6434623336323963
-      - _🇺🇸_💼6465366630653936
+      - 💻3439326636336437
+      - 🇨🇳💼3139313335626131
+      - 🇨🇳💼3364613832643362
+      - 🇨🇳📶3464303266646232
+      - 🇨🇳📶3531313366353939
+      - 🇨🇳📶3834623433633230
+      - 🇨🇳📶6131613864316532
+      - 🇨🇳📶6135386464616234
+      - 🇨🇳📶6236623632383862
+      - 🇨🇳📶63643864303034
+      - 🇨🇳📶6466613664336630
+      - 🇨🇳📶6538373565333832
+      - 🇨🇳📶6636623261326665
+      - 🇩🇪💻3130336332616630
+      - 🇩🇪💻3766653337393936
+      - 🇩🇪💼3433633764363533
+      - 🇬🇧💼3563386161376562
+      - 🇮🇪💼3563333936653061
+      - 🇮🇪💼6436313232353264
+      - 🇮🇷📶6630323866343830
+      - 🇯🇵💼3130323363343564
+      - 🇯🇵💼3630663837626639
+      - 🇯🇵💼3935623663323134
+      - 🇯🇵💼6132373630353531
+      - 🇯🇵💼6262653638613366
+      - 🇯🇵💼6661393035313639
+      - 🇰🇷💼3162343530363866
+      - 🇰🇷💼31626166323638
+      - 🇰🇷💼3164353964643961
+      - 🇰🇷💼3234353735663236
+      - 🇰🇷💼3265333536376666
+      - 🇰🇷💼3332613365333235
+      - 🇰🇷💼3564316531666435
+      - 🇰🇷💼3566333632316237
+      - 🇰🇷💼3634656133646338
+      - 🇰🇷💼3666386331363633
+      - 🇰🇷💼3731356561653263
+      - 🇰🇷💼3765666563366634
+      - 🇰🇷💼3837366164313862
+      - 🇰🇷💼6463663530333539
+      - 🇳🇱💻6134383632343963
+      - 🇳🇱💼3633636131313362
+      - 🇵🇱💻3266343765386364
+      - 🇵🇱💻3336303732313433
+      - 🇵🇱💻3434353235353663
+      - 🇵🇱💻3439653661313335
+      - 🇵🇱💻3465313563613063
+      - 🇵🇱💻3831386139306463
+      - 🇵🇱💻3832366134343438
+      - 🇵🇱💻3839316239316165
+      - 🇵🇱💻3932616464636538
+      - 🇵🇱💻3936643338633636
+      - 🇵🇱💻6132646534346266
+      - 🇵🇱💻6336356138336535
+      - 🇵🇱💻6363373033653961
+      - 🇵🇱💻6365366131313862
+      - 🇵🇱💻6437656163366337
+      - 🇵🇱💻6530306337396162
+      - 🇵🇱💻6534616130396562
+      - 🇵🇱💻6634326632396661
+      - 🇵🇱💻6665323065373137
+      - 🇷🇺💻3134326466326337
+      - 🇷🇺💻3532393732663939
+      - 🇸🇬💼3332356563356465
+      - 🇸🇬💼3566613766373364
+      - 🇺🇸💻3361656633616538
+      - 🇺🇸💻3531653066343435
+      - 🇺🇸💻3631363636633338
+      - 🇺🇸💻36653630386133
+      - 🇺🇸💻3732323566663631
+      - 🇺🇸💻3930656534353832
+      - 🇺🇸💼3162623339613236
+      - 🇺🇸💼3164626237333461
+      - 🇺🇸💼3166326239313863
+      - 🇺🇸💼3166383264306531
+      - 🇺🇸💼3236386366363837
+      - 🇺🇸💼3238346466303261
+      - 🇺🇸💼3264643335633765
+      - 🇺🇸💼3464396461653736
+      - 🇺🇸💼3537323463393038
+      - 🇺🇸💼3562363531386463
+      - 🇺🇸💼3562383061353564
+      - 🇺🇸💼3634656563313065
+      - 🇺🇸💼3663366562316636
+      - 🇺🇸💼3739333364333534
+      - 🇺🇸💼3830353535353731
+      - 🇺🇸💼3861386530353737
+      - 🇺🇸💼6134353539343461
+      - 🇺🇸💼6166653264353633
+      - 🇺🇸💼6239353666393634
+      - 🇺🇸💼64333461373165
+      - 🇺🇸💼6434623336323963
+      - 🇺🇸💼6465366630653936
       - 3130346466656639
       - 3137343361343631
       - 3161333566636138
@@ -330,134 +330,134 @@ proxy-groups:
       - 6662653563396462
       - 6664383761336561
       - 6664636434326431
-      - ❓_🇨🇳:🇭🇰_💻6331346139396466
-      - ❓_🇨🇳_📶62393330633839
-      - ❓_🇩🇪_💼3261613139626632
-      - ❓_🇫🇷_💼6635386461346265
-      - ❓_🇬🇧_💼3936363630613839
-      - ❓_🇯🇵_💼3163316635666166
-      - ❓_🇯🇵_💼3362356662356637
-      - ❓_🇯🇵_💼3363336538653764
-      - ❓_🇯🇵_💼3466623133353738
-      - ❓_🇯🇵_💼3630316666613538
-      - ❓_🇯🇵_💼6435353730343365
-      - ❓_🇯🇵_💼6537633933356439
-      - ❓_🇯🇵_💼6564666530653531
-      - ❓_🇰🇷_🌀6562633138333461
-      - ❓_🇰🇷_💼6664643562346432
-      - ❓_🇰🇷_📶38316338306633
-      - ❓_🇰🇷_📶3930663730623733
-      - ❓_🇰🇷_📶6630633530376464
-      - ❓_🇵🇱_📶3439333137313464
-      - ❓_🇸🇪_💼3234353431303434
-      - ❓_🇸🇪_💼6464343430643039
-      - ❓_🇸🇬_💼3132373361313337
-      - ❓_🇸🇬_💼6230656133373262
-      - ❓_🇸🇬_💼6262346630306365
-      - ❓_🇸🇬_💼6432303731393565
-      - ❓_🇺🇸_💻3538383234646439
-      - ❓_🇺🇸_💻6535363436373931
-      - ❓_🇺🇸_💼3639383134386336
-      - ❓_🇺🇸_💼6366613635646539
+      - 💻6331346139396466
+      - 🇨🇳📶62393330633839
+      - 🇩🇪💼3261613139626632
+      - 🇫🇷💼6635386461346265
+      - 🇬🇧💼3936363630613839
+      - 🇯🇵💼3163316635666166
+      - 🇯🇵💼3362356662356637
+      - 🇯🇵💼3363336538653764
+      - 🇯🇵💼3466623133353738
+      - 🇯🇵💼3630316666613538
+      - 🇯🇵💼6435353730343365
+      - 🇯🇵💼6537633933356439
+      - 🇯🇵💼6564666530653531
+      - 🇰🇷🌀6562633138333461
+      - 🇰🇷💼6664643562346432
+      - 🇰🇷📶38316338306633
+      - 🇰🇷📶3930663730623733
+      - 🇰🇷📶6630633530376464
+      - 🇵🇱📶3439333137313464
+      - 🇸🇪💼3234353431303434
+      - 🇸🇪💼6464343430643039
+      - 🇸🇬💼3132373361313337
+      - 🇸🇬💼6230656133373262
+      - 🇸🇬💼6262346630306365
+      - 🇸🇬💼6432303731393565
+      - 🇺🇸💻3538383234646439
+      - 🇺🇸💻6535363436373931
+      - 🇺🇸💼3639383134386336
+      - 🇺🇸💼6366613635646539
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
       - 香港😈3259106375
-      - _🇨🇳:🇭🇰_💻3439326636336437
-      - _🇨🇳_💼3139313335626131
-      - _🇨🇳_💼3364613832643362
-      - _🇨🇳_📶3464303266646232
-      - _🇨🇳_📶3531313366353939
-      - _🇨🇳_📶3834623433633230
-      - _🇨🇳_📶6131613864316532
-      - _🇨🇳_📶6135386464616234
-      - _🇨🇳_📶6236623632383862
-      - _🇨🇳_📶63643864303034
-      - _🇨🇳_📶6466613664336630
-      - _🇨🇳_📶6538373565333832
-      - _🇨🇳_📶6636623261326665
-      - _🇩🇪_💻3130336332616630
-      - _🇩🇪_💻3766653337393936
-      - _🇩🇪_💼3433633764363533
-      - _🇬🇧_💼3563386161376562
-      - _🇮🇪_💼3563333936653061
-      - _🇮🇪_💼6436313232353264
-      - _🇮🇷_📶6630323866343830
-      - _🇯🇵_💼3130323363343564
-      - _🇯🇵_💼3630663837626639
-      - _🇯🇵_💼3935623663323134
-      - _🇯🇵_💼6132373630353531
-      - _🇯🇵_💼6262653638613366
-      - _🇯🇵_💼6661393035313639
-      - _🇰🇷_💼3162343530363866
-      - _🇰🇷_💼31626166323638
-      - _🇰🇷_💼3164353964643961
-      - _🇰🇷_💼3234353735663236
-      - _🇰🇷_💼3265333536376666
-      - _🇰🇷_💼3332613365333235
-      - _🇰🇷_💼3564316531666435
-      - _🇰🇷_💼3566333632316237
-      - _🇰🇷_💼3634656133646338
-      - _🇰🇷_💼3666386331363633
-      - _🇰🇷_💼3731356561653263
-      - _🇰🇷_💼3765666563366634
-      - _🇰🇷_💼3837366164313862
-      - _🇰🇷_💼6463663530333539
-      - _🇳🇱_💻6134383632343963
-      - _🇳🇱_💼3633636131313362
-      - _🇵🇱_💻3266343765386364
-      - _🇵🇱_💻3336303732313433
-      - _🇵🇱_💻3434353235353663
-      - _🇵🇱_💻3439653661313335
-      - _🇵🇱_💻3465313563613063
-      - _🇵🇱_💻3831386139306463
-      - _🇵🇱_💻3832366134343438
-      - _🇵🇱_💻3839316239316165
-      - _🇵🇱_💻3932616464636538
-      - _🇵🇱_💻3936643338633636
-      - _🇵🇱_💻6132646534346266
-      - _🇵🇱_💻6336356138336535
-      - _🇵🇱_💻6363373033653961
-      - _🇵🇱_💻6365366131313862
-      - _🇵🇱_💻6437656163366337
-      - _🇵🇱_💻6530306337396162
-      - _🇵🇱_💻6534616130396562
-      - _🇵🇱_💻6634326632396661
-      - _🇵🇱_💻6665323065373137
-      - _🇷🇺_💻3134326466326337
-      - _🇷🇺_💻3532393732663939
-      - _🇸🇬_💼3332356563356465
-      - _🇸🇬_💼3566613766373364
-      - _🇺🇸_💻3361656633616538
-      - _🇺🇸_💻3531653066343435
-      - _🇺🇸_💻3631363636633338
-      - _🇺🇸_💻36653630386133
-      - _🇺🇸_💻3732323566663631
-      - _🇺🇸_💻3930656534353832
-      - _🇺🇸_💼3162623339613236
-      - _🇺🇸_💼3164626237333461
-      - _🇺🇸_💼3166326239313863
-      - _🇺🇸_💼3166383264306531
-      - _🇺🇸_💼3236386366363837
-      - _🇺🇸_💼3238346466303261
-      - _🇺🇸_💼3264643335633765
-      - _🇺🇸_💼3464396461653736
-      - _🇺🇸_💼3537323463393038
-      - _🇺🇸_💼3562363531386463
-      - _🇺🇸_💼3562383061353564
-      - _🇺🇸_💼3634656563313065
-      - _🇺🇸_💼3663366562316636
-      - _🇺🇸_💼3739333364333534
-      - _🇺🇸_💼3830353535353731
-      - _🇺🇸_💼3861386530353737
-      - _🇺🇸_💼6134353539343461
-      - _🇺🇸_💼6166653264353633
-      - _🇺🇸_💼6239353666393634
-      - _🇺🇸_💼64333461373165
-      - _🇺🇸_💼6434623336323963
-      - _🇺🇸_💼6465366630653936
+      - 💻3439326636336437
+      - 🇨🇳💼3139313335626131
+      - 🇨🇳💼3364613832643362
+      - 🇨🇳📶3464303266646232
+      - 🇨🇳📶3531313366353939
+      - 🇨🇳📶3834623433633230
+      - 🇨🇳📶6131613864316532
+      - 🇨🇳📶6135386464616234
+      - 🇨🇳📶6236623632383862
+      - 🇨🇳📶63643864303034
+      - 🇨🇳📶6466613664336630
+      - 🇨🇳📶6538373565333832
+      - 🇨🇳📶6636623261326665
+      - 🇩🇪💻3130336332616630
+      - 🇩🇪💻3766653337393936
+      - 🇩🇪💼3433633764363533
+      - 🇬🇧💼3563386161376562
+      - 🇮🇪💼3563333936653061
+      - 🇮🇪💼6436313232353264
+      - 🇮🇷📶6630323866343830
+      - 🇯🇵💼3130323363343564
+      - 🇯🇵💼3630663837626639
+      - 🇯🇵💼3935623663323134
+      - 🇯🇵💼6132373630353531
+      - 🇯🇵💼6262653638613366
+      - 🇯🇵💼6661393035313639
+      - 🇰🇷💼3162343530363866
+      - 🇰🇷💼31626166323638
+      - 🇰🇷💼3164353964643961
+      - 🇰🇷💼3234353735663236
+      - 🇰🇷💼3265333536376666
+      - 🇰🇷💼3332613365333235
+      - 🇰🇷💼3564316531666435
+      - 🇰🇷💼3566333632316237
+      - 🇰🇷💼3634656133646338
+      - 🇰🇷💼3666386331363633
+      - 🇰🇷💼3731356561653263
+      - 🇰🇷💼3765666563366634
+      - 🇰🇷💼3837366164313862
+      - 🇰🇷💼6463663530333539
+      - 🇳🇱💻6134383632343963
+      - 🇳🇱💼3633636131313362
+      - 🇵🇱💻3266343765386364
+      - 🇵🇱💻3336303732313433
+      - 🇵🇱💻3434353235353663
+      - 🇵🇱💻3439653661313335
+      - 🇵🇱💻3465313563613063
+      - 🇵🇱💻3831386139306463
+      - 🇵🇱💻3832366134343438
+      - 🇵🇱💻3839316239316165
+      - 🇵🇱💻3932616464636538
+      - 🇵🇱💻3936643338633636
+      - 🇵🇱💻6132646534346266
+      - 🇵🇱💻6336356138336535
+      - 🇵🇱💻6363373033653961
+      - 🇵🇱💻6365366131313862
+      - 🇵🇱💻6437656163366337
+      - 🇵🇱💻6530306337396162
+      - 🇵🇱💻6534616130396562
+      - 🇵🇱💻6634326632396661
+      - 🇵🇱💻6665323065373137
+      - 🇷🇺💻3134326466326337
+      - 🇷🇺💻3532393732663939
+      - 🇸🇬💼3332356563356465
+      - 🇸🇬💼3566613766373364
+      - 🇺🇸💻3361656633616538
+      - 🇺🇸💻3531653066343435
+      - 🇺🇸💻3631363636633338
+      - 🇺🇸💻36653630386133
+      - 🇺🇸💻3732323566663631
+      - 🇺🇸💻3930656534353832
+      - 🇺🇸💼3162623339613236
+      - 🇺🇸💼3164626237333461
+      - 🇺🇸💼3166326239313863
+      - 🇺🇸💼3166383264306531
+      - 🇺🇸💼3236386366363837
+      - 🇺🇸💼3238346466303261
+      - 🇺🇸💼3264643335633765
+      - 🇺🇸💼3464396461653736
+      - 🇺🇸💼3537323463393038
+      - 🇺🇸💼3562363531386463
+      - 🇺🇸💼3562383061353564
+      - 🇺🇸💼3634656563313065
+      - 🇺🇸💼3663366562316636
+      - 🇺🇸💼3739333364333534
+      - 🇺🇸💼3830353535353731
+      - 🇺🇸💼3861386530353737
+      - 🇺🇸💼6134353539343461
+      - 🇺🇸💼6166653264353633
+      - 🇺🇸💼6239353666393634
+      - 🇺🇸💼64333461373165
+      - 🇺🇸💼6434623336323963
+      - 🇺🇸💼6465366630653936
       - 3130346466656639
       - 3137343361343631
       - 3161333566636138
@@ -503,35 +503,35 @@ proxy-groups:
       - 6662653563396462
       - 6664383761336561
       - 6664636434326431
-      - ❓_🇨🇳:🇭🇰_💻6331346139396466
-      - ❓_🇨🇳_📶62393330633839
-      - ❓_🇩🇪_💼3261613139626632
-      - ❓_🇫🇷_💼6635386461346265
-      - ❓_🇬🇧_💼3936363630613839
-      - ❓_🇯🇵_💼3163316635666166
-      - ❓_🇯🇵_💼3362356662356637
-      - ❓_🇯🇵_💼3363336538653764
-      - ❓_🇯🇵_💼3466623133353738
-      - ❓_🇯🇵_💼3630316666613538
-      - ❓_🇯🇵_💼6435353730343365
-      - ❓_🇯🇵_💼6537633933356439
-      - ❓_🇯🇵_💼6564666530653531
-      - ❓_🇰🇷_🌀6562633138333461
-      - ❓_🇰🇷_💼6664643562346432
-      - ❓_🇰🇷_📶38316338306633
-      - ❓_🇰🇷_📶3930663730623733
-      - ❓_🇰🇷_📶6630633530376464
-      - ❓_🇵🇱_📶3439333137313464
-      - ❓_🇸🇪_💼3234353431303434
-      - ❓_🇸🇪_💼6464343430643039
-      - ❓_🇸🇬_💼3132373361313337
-      - ❓_🇸🇬_💼6230656133373262
-      - ❓_🇸🇬_💼6262346630306365
-      - ❓_🇸🇬_💼6432303731393565
-      - ❓_🇺🇸_💻3538383234646439
-      - ❓_🇺🇸_💻6535363436373931
-      - ❓_🇺🇸_💼3639383134386336
-      - ❓_🇺🇸_💼6366613635646539
+      - 💻6331346139396466
+      - 🇨🇳📶62393330633839
+      - 🇩🇪💼3261613139626632
+      - 🇫🇷💼6635386461346265
+      - 🇬🇧💼3936363630613839
+      - 🇯🇵💼3163316635666166
+      - 🇯🇵💼3362356662356637
+      - 🇯🇵💼3363336538653764
+      - 🇯🇵💼3466623133353738
+      - 🇯🇵💼3630316666613538
+      - 🇯🇵💼6435353730343365
+      - 🇯🇵💼6537633933356439
+      - 🇯🇵💼6564666530653531
+      - 🇰🇷🌀6562633138333461
+      - 🇰🇷💼6664643562346432
+      - 🇰🇷📶38316338306633
+      - 🇰🇷📶3930663730623733
+      - 🇰🇷📶6630633530376464
+      - 🇵🇱📶3439333137313464
+      - 🇸🇪💼3234353431303434
+      - 🇸🇪💼6464343430643039
+      - 🇸🇬💼3132373361313337
+      - 🇸🇬💼6230656133373262
+      - 🇸🇬💼6262346630306365
+      - 🇸🇬💼6432303731393565
+      - 🇺🇸💻3538383234646439
+      - 🇺🇸💻6535363436373931
+      - 🇺🇸💼3639383134386336
+      - 🇺🇸💼6366613635646539
   - name: 🎯 全球直连
     type: select
     proxies:
