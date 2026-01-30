@@ -534,29 +534,29 @@ proxy-groups:
       - _github.com/Ruk1ng001_d9f116e3
       - _github.com/Ruk1ng001_df42e499
       - _github.com/Ruk1ng001_e21cbe04
-      - "⚪🏳️[🎪📦]_github.com/Ruk1ng001_5ef9dfbb"
-      - "⚪🏳️[🎬✨]_github.com/Ruk1ng001_cdef1a55"
-      - "⚪🏳️[🎬🎭]_github.com/Ruk1ng001_cf799ca8"
-      - "⚪🏳️[🎭🎪🎞️]_github.com/Ruk1ng001_303bdb00"
-      - "⚪🏳️[📦]_github.com/Ruk1ng001_6df40354"
-      - "⚪🏳️[📦]_github.com/Ruk1ng001_f23ee5a3"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_18e54c51"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_565ada86"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_60741f49"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_8607f1fe"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_b27b52c9"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_dd7b071d"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_e48106f7"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_ef05c888"
-      - "⚪🏳️[📺🎞️]_github.com/Ruk1ng001_6ece6c2a"
-      - "⚪🏳️[📺🎭]_github.com/Ruk1ng001_4e3c5e2d"
-      - "⚪🏳️[📺🎭📦🔍]_github.com/Ruk1ng001_961f8ea5"
-      - "⚪🏳️[📺📦]_github.com/Ruk1ng001_af99e64d"
-      - "⚪🏳️[📺🔍]_github.com/Ruk1ng001_feeaa5c1"
-      - "⚪🏳️[🔍]_github.com/Ruk1ng001_c41b9487"
-      - "⚪🏳️[🤖]_github.com/Ruk1ng001_f0c6ebb9"
-      - "⚪🏳️[🤖🎭📦]_github.com/Ruk1ng001_0810b772"
-      - "⚪🏳️[🧠🎭]_github.com/Ruk1ng001_5f559b73"
+      - ⚪🏳️[🎪📦]_github.com/Ruk1ng001_5ef9dfbb
+      - ⚪🏳️[🎬✨]_github.com/Ruk1ng001_cdef1a55
+      - ⚪🏳️[🎬🎭]_github.com/Ruk1ng001_cf799ca8
+      - ⚪🏳️[🎭🎪🎞️]_github.com/Ruk1ng001_303bdb00
+      - ⚪🏳️[📦]_github.com/Ruk1ng001_6df40354
+      - ⚪🏳️[📦]_github.com/Ruk1ng001_f23ee5a3
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_18e54c51
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_565ada86
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_60741f49
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_8607f1fe
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_b27b52c9
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_dd7b071d
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_e48106f7
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_ef05c888
+      - ⚪🏳️[📺🎞️]_github.com/Ruk1ng001_6ece6c2a
+      - ⚪🏳️[📺🎭]_github.com/Ruk1ng001_4e3c5e2d
+      - ⚪🏳️[📺🎭📦🔍]_github.com/Ruk1ng001_961f8ea5
+      - ⚪🏳️[📺📦]_github.com/Ruk1ng001_af99e64d
+      - ⚪🏳️[📺🔍]_github.com/Ruk1ng001_feeaa5c1
+      - ⚪🏳️[🔍]_github.com/Ruk1ng001_c41b9487
+      - ⚪🏳️[🤖]_github.com/Ruk1ng001_f0c6ebb9
+      - ⚪🏳️[🤖🎭📦]_github.com/Ruk1ng001_0810b772
+      - ⚪🏳️[🧠🎭]_github.com/Ruk1ng001_5f559b73
       - ⚪🏳️_github.com/Ruk1ng001_061d796b
       - ⚪🏳️_github.com/Ruk1ng001_08a26e24
       - ⚪🏳️_github.com/Ruk1ng001_08ffcb65
@@ -592,6 +592,7 @@ proxy-groups:
     type: select
     proxies:
       - ♻️自动选择
+      - DIRECT
       - "[✈️]_github.com/Ruk1ng001_22115944"
       - "[✈️]_github.com/Ruk1ng001_fc94b76a"
       - "[✈️🔍]_github.com/Ruk1ng001_97ccb4e8"
@@ -826,29 +827,29 @@ proxy-groups:
       - _github.com/Ruk1ng001_d9f116e3
       - _github.com/Ruk1ng001_df42e499
       - _github.com/Ruk1ng001_e21cbe04
-      - "⚪🏳️[🎪📦]_github.com/Ruk1ng001_5ef9dfbb"
-      - "⚪🏳️[🎬✨]_github.com/Ruk1ng001_cdef1a55"
-      - "⚪🏳️[🎬🎭]_github.com/Ruk1ng001_cf799ca8"
-      - "⚪🏳️[🎭🎪🎞️]_github.com/Ruk1ng001_303bdb00"
-      - "⚪🏳️[📦]_github.com/Ruk1ng001_6df40354"
-      - "⚪🏳️[📦]_github.com/Ruk1ng001_f23ee5a3"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_18e54c51"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_565ada86"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_60741f49"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_8607f1fe"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_b27b52c9"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_dd7b071d"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_e48106f7"
-      - "⚪🏳️[📺]_github.com/Ruk1ng001_ef05c888"
-      - "⚪🏳️[📺🎞️]_github.com/Ruk1ng001_6ece6c2a"
-      - "⚪🏳️[📺🎭]_github.com/Ruk1ng001_4e3c5e2d"
-      - "⚪🏳️[📺🎭📦🔍]_github.com/Ruk1ng001_961f8ea5"
-      - "⚪🏳️[📺📦]_github.com/Ruk1ng001_af99e64d"
-      - "⚪🏳️[📺🔍]_github.com/Ruk1ng001_feeaa5c1"
-      - "⚪🏳️[🔍]_github.com/Ruk1ng001_c41b9487"
-      - "⚪🏳️[🤖]_github.com/Ruk1ng001_f0c6ebb9"
-      - "⚪🏳️[🤖🎭📦]_github.com/Ruk1ng001_0810b772"
-      - "⚪🏳️[🧠🎭]_github.com/Ruk1ng001_5f559b73"
+      - ⚪🏳️[🎪📦]_github.com/Ruk1ng001_5ef9dfbb
+      - ⚪🏳️[🎬✨]_github.com/Ruk1ng001_cdef1a55
+      - ⚪🏳️[🎬🎭]_github.com/Ruk1ng001_cf799ca8
+      - ⚪🏳️[🎭🎪🎞️]_github.com/Ruk1ng001_303bdb00
+      - ⚪🏳️[📦]_github.com/Ruk1ng001_6df40354
+      - ⚪🏳️[📦]_github.com/Ruk1ng001_f23ee5a3
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_18e54c51
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_565ada86
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_60741f49
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_8607f1fe
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_b27b52c9
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_dd7b071d
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_e48106f7
+      - ⚪🏳️[📺]_github.com/Ruk1ng001_ef05c888
+      - ⚪🏳️[📺🎞️]_github.com/Ruk1ng001_6ece6c2a
+      - ⚪🏳️[📺🎭]_github.com/Ruk1ng001_4e3c5e2d
+      - ⚪🏳️[📺🎭📦🔍]_github.com/Ruk1ng001_961f8ea5
+      - ⚪🏳️[📺📦]_github.com/Ruk1ng001_af99e64d
+      - ⚪🏳️[📺🔍]_github.com/Ruk1ng001_feeaa5c1
+      - ⚪🏳️[🔍]_github.com/Ruk1ng001_c41b9487
+      - ⚪🏳️[🤖]_github.com/Ruk1ng001_f0c6ebb9
+      - ⚪🏳️[🤖🎭📦]_github.com/Ruk1ng001_0810b772
+      - ⚪🏳️[🧠🎭]_github.com/Ruk1ng001_5f559b73
       - ⚪🏳️_github.com/Ruk1ng001_061d796b
       - ⚪🏳️_github.com/Ruk1ng001_08a26e24
       - ⚪🏳️_github.com/Ruk1ng001_08ffcb65
@@ -880,7 +881,6 @@ proxy-groups:
       - ⚪🏳️_github.com/Ruk1ng001_eb56333a
       - ⚪🏳️_github.com/Ruk1ng001_f6a0212c
       - ⚪🏳️_github.com/Ruk1ng001_fefb7007
-      - DIRECT
   - name: 🎯全球直连
     type: select
     proxies:
