@@ -1,0 +1,47 @@
+name: update
+
+on:
+  schedule:
+   - cron: '0 1,13 * * *'
+  workflow_dispatch: 
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: 检出仓库代码
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.MYTOKEN }}
+        fetch-depth: 0
+
+    - name: 配置仓库
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+    - name: 更新
+      run: |
+        #sh update.sh
+        rm clash.yaml
+        curl -o clash.yaml "https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FRuk1ng001%2FfreeSub%2Fmain%2Fclash.yaml&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkjxhb%2Fmyclash%2Fmain%2Fmyclash.ini&sort=true&udp=true"
+
+    - name: 推送更新    
+      run: |
+        # 检查是否有文件变化
+        CHANGES=$(git status --porcelain)
+        if [ -n "$CHANGES" ]; then
+          echo "检测到文件变化，开始提交："
+          echo "$CHANGES"
+          git add .
+          git commit -m "更新文件 $(date +'%Y-%m-%d %H:%M:%S')"
+          git push origin main
+          echo "推送成功！"
+        else
+          echo "⚠️ 没有检测到文件变化，跳过提交推送步骤"
+          # 无变化时正常退出，返回码为0
+          exit 0
+        fi
