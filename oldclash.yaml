@@ -40,7 +40,6 @@ proxies:
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_1fc9c91b", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 54440, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_23115e10", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 50019, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_2622e5b1", server: ldu.izenny.com, port: 25612, type: ss, cipher: chacha20-ietf-poly1305, password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_270e2f3f", server: ca-hy2.onetaplink.app, port: 443, type: hysteria2, password: 48b36b6a-eaa6-4843-9231-0bb8b38b5da5, sni: hy2-ca.onetaplink.app, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_3305bc16", server: v29.hdacd.com, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_3569ff99", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 50612, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_41a1e92f", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 12333, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
@@ -49,7 +48,6 @@ proxies:
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_48b81d1a", server: 121.169.46.116, port: 1090, type: socks5, username: Og%3D%3D, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_538adfae", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 12889, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_58d5e652", server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_83940074", server: los.zuomomo.top, port: 16667, type: hysteria2, password: 1bfe8d6f-6545-4215-a8a1-35f1d4393bac, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_858777b5", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 53333, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_873d5dfa", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 52111, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_9ace05ae", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 53404, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
@@ -57,14 +55,12 @@ proxies:
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_b087e50f", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 12443, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_c54db46d", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_d5ac756e", server: 121.169.46.116, port: 1090, type: socks5, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_dd1b1791", server: los.zuomomo.top, port: 16666, type: hysteria2, password: 1bfe8d6f-6545-4215-a8a1-35f1d4393bac, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_e041940e", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 12777, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_e3268b89", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_fb53f791", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 57777, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_rT8TKIqy", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_Tdz1v6tW", server: v8.hdacd.com, port: 30808, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🧠📺🎭]_github.com/Ruk1ng001_53bde187", server: bd00c917-ta1og0-tfpsin-1q3dm.hkt.cdnhuawei.com, port: 8443, type: http, username: c1785de0-212f-11ef-92aa-f23c9164ca5d, password: <password>, tls: true, udp: true}
-  - {name: "[🎬🧠📺🎭]_github.com/Ruk1ng001_e9cfc335", server: hk1.zuomomo.top, port: 20192, type: hysteria2, password: 1bfe8d6f-6545-4215-a8a1-35f1d4393bac, skip-cert-verify: false, udp: true}
   - {name: "[🎭]_github.com/Ruk1ng001_94468406", server: 8875d66c-t9zts0-trhks8-1c9em.hkt.cdnhuawei.com, port: 8443, type: http, username: 336501b6-51d2-11ee-a993-f23c9164ca5d, password: <password>, tls: true, udp: true}
   - {name: "[📦🔍]_github.com/Ruk1ng001_bec81112", server: 9d45e7b2-t9zts0-tqo482-1ppvf.hkt.cdnhuawei.com, port: 8443, type: http, username: 8da5616c-8566-11ee-9a21-f23c9164ca5d, password: <password>, tls: true, udp: true}
   - {name: "[📺]_github.com/Ruk1ng001_4ac40544", server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 45173682-5f01-4254-8baa-930de8a6de8b, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true}
@@ -130,7 +126,6 @@ proxies:
   - {name: "[🤖📺🎭📦]_github.com/Ruk1ng001_71e06525", server: v36.hdacd.com, port: 30836, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🤖📺📦✈️]_github.com/Ruk1ng001_Y3magy4E", server: v35.hdacd.com, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🤖📺📦✈️]_github.com/Ruk1ng001_dcb1c474", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 53412, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
-  - {name: "[🧠📺🎪✨]_github.com/Ruk1ng001_bf4d9892", server: mosike.zuomomo.top, port: 16667, type: hysteria2, password: 1bfe8d6f-6545-4215-a8a1-35f1d4393bac, skip-cert-verify: false, udp: true}
   - {name: "[🧠📺🎭🎞️]_github.com/Ruk1ng001_33803744", server: cd345171-t9zts0-tahh2s-tng5.hkt.cdnhuawei.com, port: 8443, type: http, username: 2ec58858-976b-11ea-82ef-f23c9164ca5d, password: <password>, tls: true, udp: true}
   - {name: _github.com/Ruk1ng001_0033319d, server: 220.130.58.136, port: 35502, type: trojan, password: 6f038cee-6ba1-4941-bce5-de1969f37405, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true}
   - {name: _github.com/Ruk1ng001_00da8c79, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 0a169d7d-a30f-4d90-af1b-55f6ef6afcb7, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true}
@@ -164,8 +159,6 @@ proxies:
   - {name: _github.com/Ruk1ng001_bdc78de7, server: 213.35.110.67, port: 10850, type: socks5, username: Og%3D%3D, udp: true}
   - {name: _github.com/Ruk1ng001_dd97c07b, server: 220.130.58.136, port: 35501, type: trojan, password: 66c62e1a-8037-4154-ad0b-7a0ec415f46c, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true}
   - {name: _github.com/Ruk1ng001_defed847, server: 185.231.233.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: _github.com/Ruk1ng001_f1fdfbca, server: sg.zuomomo.top, port: 16667, type: hysteria2, password: 1bfe8d6f-6545-4215-a8a1-35f1d4393bac, skip-cert-verify: false, udp: true}
-  - {name: _github.com/Ruk1ng001_f4c1dd84, server: sg.zuomomo.top, port: 16666, type: hysteria2, password: 1bfe8d6f-6545-4215-a8a1-35f1d4393bac, skip-cert-verify: false, udp: true}
   - {name: _github.com/Ruk1ng001_fdd5a32e, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "⚪🏳️[🎬🤖📺🎭]_github.com/Ruk1ng001_c27d480e", server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 12222, type: ss, cipher: chacha20-ietf-poly1305, password: 83f651d8-58b7-45dc-9ad1-6fccbc3e0411, udp: true}
   - {name: ⚪🏳️_github.com/Ruk1ng001_3a9a26d2, server: 185.220.238.77, port: 10443, type: trojan, password: HutaoCloud, sni: jp1.hutaonode.top, skip-cert-verify: true, udp: true}
@@ -211,7 +204,6 @@ proxy-groups:
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_1fc9c91b"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_23115e10"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_2622e5b1"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_270e2f3f"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_3305bc16"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_3569ff99"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_41a1e92f"
@@ -220,7 +212,6 @@ proxy-groups:
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_48b81d1a"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_538adfae"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_58d5e652"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_83940074"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_858777b5"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_873d5dfa"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_9ace05ae"
@@ -228,14 +219,12 @@ proxy-groups:
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_b087e50f"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_c54db46d"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_d5ac756e"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_dd1b1791"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_e041940e"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_e3268b89"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_fb53f791"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_rT8TKIqy"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_Tdz1v6tW"
       - "[🎬🧠📺🎭]_github.com/Ruk1ng001_53bde187"
-      - "[🎬🧠📺🎭]_github.com/Ruk1ng001_e9cfc335"
       - "[🎭]_github.com/Ruk1ng001_94468406"
       - "[📦🔍]_github.com/Ruk1ng001_bec81112"
       - "[📺]_github.com/Ruk1ng001_4ac40544"
@@ -301,7 +290,6 @@ proxy-groups:
       - "[🤖📺🎭📦]_github.com/Ruk1ng001_71e06525"
       - "[🤖📺📦✈️]_github.com/Ruk1ng001_Y3magy4E"
       - "[🤖📺📦✈️]_github.com/Ruk1ng001_dcb1c474"
-      - "[🧠📺🎪✨]_github.com/Ruk1ng001_bf4d9892"
       - "[🧠📺🎭🎞️]_github.com/Ruk1ng001_33803744"
       - _github.com/Ruk1ng001_0033319d
       - _github.com/Ruk1ng001_00da8c79
@@ -335,16 +323,13 @@ proxy-groups:
       - _github.com/Ruk1ng001_bdc78de7
       - _github.com/Ruk1ng001_dd97c07b
       - _github.com/Ruk1ng001_defed847
-      - _github.com/Ruk1ng001_f1fdfbca
-      - _github.com/Ruk1ng001_f4c1dd84
       - _github.com/Ruk1ng001_fdd5a32e
-      - ⚪🏳️[🎬🤖📺🎭]_github.com/Ruk1ng001_c27d480e
+      - "⚪🏳️[🎬🤖📺🎭]_github.com/Ruk1ng001_c27d480e"
       - ⚪🏳️_github.com/Ruk1ng001_3a9a26d2
   - name: 🚀节点选择
     type: select
     proxies:
       - ♻️自动选择
-      - DIRECT
       - "[🎬🎭✨📦]_github.com/Ruk1ng001_a88e970f"
       - "[🎬🎭🎞️📦]_github.com/Ruk1ng001_89e7fa08"
       - "[🎬📺]_github.com/Ruk1ng001_8dd77be6"
@@ -380,7 +365,6 @@ proxy-groups:
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_1fc9c91b"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_23115e10"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_2622e5b1"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_270e2f3f"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_3305bc16"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_3569ff99"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_41a1e92f"
@@ -389,7 +373,6 @@ proxy-groups:
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_48b81d1a"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_538adfae"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_58d5e652"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_83940074"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_858777b5"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_873d5dfa"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_9ace05ae"
@@ -397,14 +380,12 @@ proxy-groups:
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_b087e50f"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_c54db46d"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_d5ac756e"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_dd1b1791"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_e041940e"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_e3268b89"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_fb53f791"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_rT8TKIqy"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_Tdz1v6tW"
       - "[🎬🧠📺🎭]_github.com/Ruk1ng001_53bde187"
-      - "[🎬🧠📺🎭]_github.com/Ruk1ng001_e9cfc335"
       - "[🎭]_github.com/Ruk1ng001_94468406"
       - "[📦🔍]_github.com/Ruk1ng001_bec81112"
       - "[📺]_github.com/Ruk1ng001_4ac40544"
@@ -470,7 +451,6 @@ proxy-groups:
       - "[🤖📺🎭📦]_github.com/Ruk1ng001_71e06525"
       - "[🤖📺📦✈️]_github.com/Ruk1ng001_Y3magy4E"
       - "[🤖📺📦✈️]_github.com/Ruk1ng001_dcb1c474"
-      - "[🧠📺🎪✨]_github.com/Ruk1ng001_bf4d9892"
       - "[🧠📺🎭🎞️]_github.com/Ruk1ng001_33803744"
       - _github.com/Ruk1ng001_0033319d
       - _github.com/Ruk1ng001_00da8c79
@@ -504,11 +484,10 @@ proxy-groups:
       - _github.com/Ruk1ng001_bdc78de7
       - _github.com/Ruk1ng001_dd97c07b
       - _github.com/Ruk1ng001_defed847
-      - _github.com/Ruk1ng001_f1fdfbca
-      - _github.com/Ruk1ng001_f4c1dd84
       - _github.com/Ruk1ng001_fdd5a32e
-      - ⚪🏳️[🎬🤖📺🎭]_github.com/Ruk1ng001_c27d480e
+      - "⚪🏳️[🎬🤖📺🎭]_github.com/Ruk1ng001_c27d480e"
       - ⚪🏳️_github.com/Ruk1ng001_3a9a26d2
+      - DIRECT
   - name: 🎯全球直连
     type: select
     proxies:

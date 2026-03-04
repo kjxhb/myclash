@@ -1,0 +1,18 @@
+name: cleanup-workflow
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch: 
+
+jobs:
+  cleanup-workflows:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 只保留最近一个Workflow运行记录
+        run: gh run list --status completed --limit 1000 --json databaseId,createdAt -q 'sort_by(.createdAt) | reverse | .[1:] | .[].databaseId' | xargs -r -n 1 gh run delete
+        env:
+          GITHUB_TOKEN: ${{ secrets.MYTOKEN }}

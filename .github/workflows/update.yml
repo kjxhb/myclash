@@ -2,7 +2,7 @@ name: update
 
 on:
   schedule:
-   - cron: '0 1,13 * * *'
+   - cron: '0 */12 * * *'
   workflow_dispatch: 
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
 
     - name: 更新
       run: |
-        #sh update.sh
+        sh update.sh
         rm clash.yaml
         curl -o clash.yaml "https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FRuk1ng001%2FfreeSub%2Fmain%2Fclash.yaml&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkjxhb%2Fmyclash%2Fmain%2Fmyclash.ini&sort=true&udp=true"
 
@@ -41,7 +41,6 @@ jobs:
           git push origin main
           echo "推送成功！"
         else
-          echo "⚠️ 没有检测到文件变化，跳过提交推送步骤"
-          # 无变化时正常退出，返回码为0
+          echo "⚠️ 没有检测到文件变化，跳过提交推送"
           exit 0
         fi
