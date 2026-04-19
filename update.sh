@@ -11,6 +11,7 @@ curl -o Ruk1ng001.yaml "https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fr
 sed -i '/hyster/d' Ruk1ng001.yaml
 sed -i '/hysteria/d' Ruk1ng001.yaml
 sed -i '/t0w3nzdhp/d' Ruk1ng001.yaml
+sed -i '/1.232.206.121/d' Ruk1ng001.yaml
 
 # 复制Ruk1ng001.yaml中的节点所有信息到1.yaml临时文件
 grep '{name: .*' Ruk1ng001.yaml > 1.yaml
