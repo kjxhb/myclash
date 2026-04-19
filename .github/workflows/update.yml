@@ -29,7 +29,7 @@ jobs:
         rm clash.yaml
         curl -o clash.yaml "https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FRuk1ng001%2FfreeSub%2Fmain%2Fclash.yaml&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkjxhb%2Fmyclash%2Fmain%2Fmyclash.ini&sort=true&udp=true"
 
-    - name: 推送更新    
+    - name: 检测文件变化并推送更新  
       run: |
         # 检查是否有文件变化
         CHANGES=$(git status --porcelain)
