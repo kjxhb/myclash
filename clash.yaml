@@ -6,318 +6,313 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: "[🎬]_github.com/Ruk1ng001_69a38f0d", server: 213.156.141.52, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬]_github.com/Ruk1ng001_TAy4COsc", server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
-  - {name: "[🎬]_github.com/Ruk1ng001_a777e2be", server: 103.149.183.80, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
   - {name: "[🎬🎭🎞️📦]_github.com/Ruk1ng001_a88e970f", server: 154.26.192.123, port: 10988, type: http, username: fQ67Dpe5dU, password: gs4BXwT6SW, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬📺🎭🎪]_github.com/Ruk1ng001_655b2a1d", server: 5.188.181.201, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true}
-  - {name: "[🎬📺🎭🎪]_github.com/Ruk1ng001_c7ad8a6c", server: 202.84.53.85, port: 17892, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: ylnhh.us.ci, path: "14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\\", tls: true, mux: false}, udp: true}
+  - {name: "[🎬📺]_github.com/Ruk1ng001_77decc77", server: vm51544542.dns8656815.com, port: 7754, type: vmess, uuid: 7cd96dbe-ecec-4937-9e05-87ab70af2f30, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: "[🎬📺🎪✨]_github.com/Ruk1ng001_SGaJddwP", server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬📺🎪✨]_github.com/Ruk1ng001_aff89e31", server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬📺🎭🎪]_github.com/Ruk1ng001_f6ccc010", server: afbf4e3b-t9zts0-tdfzix-fm2v.hkt.cdnhuawei.com, port: 8443, type: http, username: 3fed19ea-1671-11f0-bd2e-f23c9164ca5d, password: <password>, tls: true, udp: true}
+  - {name: "[🎬📺📦]_github.com/Ruk1ng001_7e8902c3", server: 103.141.221.124, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
   - {name: "[🎬📺🔍]_github.com/Ruk1ng001_095ec79f", server: 5943561c-tdsv40-tf681f-1j6h0.hkt.cdnhuawei.com, port: 8443, type: http, username: dcccacba-fa44-11ef-8400-f23c9164ca5d, password: <password>, tls: true, udp: true}
+  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_17a74a12", server: m.cnmjin.net, port: 16616, type: vmess, uuid: 49971471-35dc-40dd-8df1-5c61e0cbadad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a27da79b8c4aa35e0e9653dd2b051195.mobgslb.tbcache.com}}, udp: true}
   - {name: "[🎬📺🔍]_github.com/Ruk1ng001_22bb1257", server: v9.hdacd.com, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_26c00ac2", server: hk3.sevenka.top, port: 20102, type: hysteria2, password: b02b9065-defa-495a-bef1-cd55c67dbdf6, sni: hk3.sevenka.top, skip-cert-verify: true, udp: true}
   - {name: "[🎬📺🔍]_github.com/Ruk1ng001_2f1ab35a", server: hk2.network-cdn-gw-yd.net, port: 32063, type: ss, cipher: chacha20-ietf-poly1305, password: aed6e687-58a9-4836-ba62-7d8184c94df4, udp: true}
   - {name: "[🎬📺🔍]_github.com/Ruk1ng001_36a9f12f", server: m.cnmjin.net, port: 16622, type: vmess, uuid: b49af8c9-0cf1-4212-8ed8-35b70d9f2cf4, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 3416cbe57b7c52733721859d4e23be39.mobgslb.tbcache.com}}, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_595e4859", server: zz.66jc.xyz, port: 20003, type: hysteria2, password: de8e0342-ea12-4f9d-bc2a-e62409e1913f, obfs: salamander, obfs-password: YmGRdMZ74sEC91FN, sni: hkzz.66jc.xyz, skip-cert-verify: true, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_5af20bb8", server: hk3.network-cdn-gw-yd.net, port: 32058, type: ss, cipher: chacha20-ietf-poly1305, password: aed6e687-58a9-4836-ba62-7d8184c94df4, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_6d0b4f88", server: 146.190.91.9, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_81bcef77", server: 185.164.163.172, port: 2053, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_9653ac9a", server: hkt2.jueduibupao.top, port: 46724, type: hysteria2, password: aa61a314-2d82-4509-b9fa-eb93a921b6ab, sni: hkt1.jueduibupao.top, skip-cert-verify: true, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_a2b415f3", server: zz.66jc.xyz, port: 20002, type: hysteria2, password: de8e0342-ea12-4f9d-bc2a-e62409e1913f, obfs: salamander, obfs-password: XMyid4Axk5CPsiD7, sni: hkzz.66jc.xyz, skip-cert-verify: true, udp: true}
+  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_43eb0284", server: hk3.f-vip.top, port: 25120, type: trojan, password: 3d1ee73d-9659-47b3-8db9-6eb591c74a04, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true}
+  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_4b60a968", server: planb.mojcn.com, port: 16622, type: vmess, uuid: 49971471-35dc-40dd-8df1-5c61e0cbadad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a27da79b8c4aa35e0e9653dd2b051195.mobgslb.tbcache.com}}, udp: true}
+  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_9fce27a9", server: 103.197.71.119, port: 50000, type: hysteria2, password: 8e8f0173-6426-4fed-94f6-580847c744f1, sni: www.hoyoverse.com, skip-cert-verify: true, udp: true}
+  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_AJrBnYnC", server: 103.149.182.105, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
+  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_TAy4COsc", server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
+  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_a09035e0", server: fre.guren1.me, port: 8443, type: hysteria2, password: b2325ebb-21a3-46db-ae98-44884ef6dc44, sni: python.org, skip-cert-verify: true, udp: true}
   - {name: "[🎬📺🔍]_github.com/Ruk1ng001_c241f40b", server: 104.18.33.45, port: 443, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/dl/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_c4d5bfa0", server: 128.199.128.117, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
   - {name: "[🎬📺🔍]_github.com/Ruk1ng001_c6aae1d7", server: 104.16.148.10, port: 443, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true}
   - {name: "[🎬📺🔍]_github.com/Ruk1ng001_d3a78d40", server: 47.79.237.236, port: 22000, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
-  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_d96222c6", server: 38.60.89.136, port: 50000, type: trojan, password: trojan, sni: jflsjlaf.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jflsjlaf.pages.dev}}, udp: true}
-  - {name: "[🎬🔍]_github.com/Ruk1ng001_e13ea76d", server: 89.125.103.52, port: 20129, type: ss, cipher: aes-256-gcm, password: 9cdc6440d42cb19c, udp: true}
+  - {name: "[🎬📺🔍]_github.com/Ruk1ng001_fcae46d9", server: 103.197.71.97, port: 50000, type: hysteria2, password: 8e8f0173-6426-4fed-94f6-580847c744f1, sni: www.hoyoverse.com, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺]_github.com/Ruk1ng001_b8c6b1b3", server: 38.114.123.42, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_016436c4", server: 103.186.154.233, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_27186d77", server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_3d9e829f", server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_3ee43ae4", server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_66050fbf", server: 103.186.154.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_80839739", server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_8089e69a", server: 103.186.155.2, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_9afe2927", server: 103.186.155.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_a7d99321", server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_b710618a", server: 103.186.155.131, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_jvkOkCPM", server: 103.186.155.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_rjHesHay", server: 103.186.154.216, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_wTJyy5xw", server: 103.186.155.131, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺✨]_github.com/Ruk1ng001_xjhOrSrl", server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎞️]_github.com/Ruk1ng001_43df76a7", server: 103.186.154.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎞️]_github.com/Ruk1ng001_6b181969", server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_01d78e89", server: 103.186.154.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_0abfd6d5", server: 103.186.154.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_0s3cUpxR", server: 103.186.154.56, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_106b5f08", server: 103.186.154.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎞️]_github.com/Ruk1ng001_AReYArQC", server: 103.186.154.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_028054f6", server: 103.186.155.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_03383596", server: 103.186.154.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_09fc0a83", server: 103.186.154.192, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_10ee6f15", server: 103.186.155.77, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_18c69002", server: 103.186.155.119, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_18b0178d", server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_1DE6RNvn", server: 103.186.154.254, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_1e11f7da", server: 103.186.154.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_1edb8289", server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_1c6aa3fc", server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_247b79fa", server: 103.186.155.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_263d48e7", server: 103.186.154.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2FyQs9Jd", server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2OZzNY3p", server: 103.186.154.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2QGTXDVe", server: 103.186.155.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2a631a90", server: 103.186.155.77, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2cbca029", server: 103.186.154.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2d9c2d4e", server: 103.186.154.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2f987ac2", server: 103.186.154.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2fbb1991", server: 103.186.155.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_2lAncz7v", server: 103.186.154.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_314a1766", server: 103.186.155.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_3b452b00", server: 103.186.155.2, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_3cc9bb42", server: 103.186.154.246, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_412853c3", server: 103.186.154.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_37825361", server: 103.186.155.225, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_38ae5d7b", server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_441affdf", server: 103.186.154.254, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_452f4fc4", server: 103.186.154.200, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_45d18063", server: 103.186.154.172, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_47ba6dd1", server: 103.186.154.172, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_48ff31ba", server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_4HLcYZjM", server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_4b9bad28", server: 103.186.155.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_4qFRruLn", server: 103.186.155.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_53046d67", server: 103.186.154.219, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_58814c72", server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_5994ea5c", server: 103.186.155.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_5a451524", server: 103.186.155.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_5db57876", server: 103.186.155.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_5f9e5346", server: 103.186.155.129, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_609288f2", server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_62a1e52d", server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_6356308c", server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_658008d3", server: 103.186.154.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_6hJkZwUo", server: 103.186.154.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_65a41ab1", server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_6b9bc956", server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_6baaf45c", server: 103.186.155.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_6f691e9a", server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_6k4bMZH2", server: 103.186.155.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_6ldDrB8T", server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_7155237f", server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_736af9b4", server: 103.186.155.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_7759206f", server: 103.186.154.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_779ae6fa", server: 103.186.154.216, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_7J4SNQwH", server: 103.186.154.172, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_7VP5FfKQ", server: 103.186.154.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_7b2c7eaa", server: 103.186.154.216, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_7bbd20b9", server: 103.186.154.219, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_7e2e7c04", server: 103.186.154.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_7cec8d08", server: 103.186.154.182, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_80ef8445", server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_87f48738", server: 103.186.154.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_8820f33b", server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_8L9t6Qn6", server: 103.186.154.182, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_8a407a42", server: 103.186.154.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_8a6eb984", server: 103.186.154.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_8b8e0bb7", server: 103.186.154.182, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_8c6fdbbb", server: 103.186.155.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_8f934fa9", server: 103.186.154.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_8fc74a25", server: hyfuuf6.wsone.icu, port: 443, type: trojan, password: M7v%w11Se*, sni: hyfuuf6.wsone.icu, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_9058d6d2", server: 103.186.154.254, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_925eef3c", server: 103.186.154.246, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_94cfe604", server: 103.186.154.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_97be1d46", server: 103.186.154.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_9a4b2908", server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_9bdcfa6a", server: 103.186.155.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_9fdYHLHz", server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_BTE42O2P", server: 103.186.154.143, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_9ccf02db", server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_BlZoU06j", server: 103.186.154.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_CDILj5vg", server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_DLVLCAXK", server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_Dr3cso7g", server: 103.186.155.77, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_G2y08IeM", server: 103.186.155.136, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_HiYDPfSE", server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_JEYZeebo", server: 103.186.155.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_JiswlGEl", server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_LVvPV8wP", server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_M9429sKu", server: 103.186.155.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_MqBd9jv2", server: 103.186.154.14, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_O82rif13", server: 103.186.155.2, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_OQ7TuJJl", server: 103.186.154.219, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_Q6wtNPTe", server: 103.186.154.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_RntLmUjg", server: 103.186.155.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_Sny8wcFT", server: 103.186.154.162, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_T0iLxagy", server: 103.186.154.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_TK6aYZMy", server: 103.186.154.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_Ti2Juczf", server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_Tol05E0t", server: 103.186.155.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_VbbrTTPl", server: 103.186.154.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_a0cce614", server: 103.186.155.130, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_a3780a7e", server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_ac38eb10", server: 103.186.154.198, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_ad5c9b1a", server: 103.186.155.136, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_ae657804", server: 103.186.154.187, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_amwXj0U8", server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_b0cdb25b", server: 103.186.155.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_b42c9b83", server: 103.186.154.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_b42cb034", server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_b56efd34", server: 103.186.154.197, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_baaec2ab", server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_baf40cf1", server: 103.186.154.185, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_bb7233ce", server: 103.186.155.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_bc0c1c9a", server: 103.186.154.56, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_be28e96c", server: 103.186.155.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_beb3a303", server: 103.186.155.112, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_c1186815", server: 103.186.155.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_bpgReLZX", server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_c278fe70", server: 103.186.155.112, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_c6eda18f", server: 103.186.155.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_c7934fff", server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_cdbab935", server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_c92dea43", server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_c9edb6f2", server: 103.186.154.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_cb7bf1b4", server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_d2VrAaHk", server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_d4fa68ee", server: 103.186.154.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_d549fd56", server: 103.186.154.14, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_d5d1e8b7", server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_db0358bc", server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_dcee8b24", server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_de4d76c6", server: 103.186.155.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_d7306a09", server: 103.186.154.73, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_dd1a5baa", server: 103.186.155.133, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_dgz51Zvg", server: 103.186.155.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_e02da361", server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_e0358308", server: 103.186.154.187, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_e6f1f994", server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_e82164f4", server: 103.186.154.197, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_ec6b3263", server: 103.186.155.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_eecb3d7d", server: 103.186.155.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_f17930c6", server: 103.186.154.198, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_f19e822f", server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_f3ace148", server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_f8463e48", server: 103.186.155.136, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_ffafa431", server: 103.186.154.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_g8mCD38k", server: 103.186.155.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_gIGaWvKT", server: 103.186.155.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_inlv8lqC", server: 103.186.154.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_j0LruYBj", server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_kY1loFao", server: 103.186.154.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_mX85PF6R", server: 103.186.155.112, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_mmEKzvps", server: 103.186.154.197, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_pnyqVvES", server: 103.186.154.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_tPNcDL3M", server: 103.186.155.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_nlncEjqC", server: 103.186.154.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_ntCloBAx", server: 103.186.154.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_pa6Z9nE7", server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_qAhv7Qn8", server: 103.186.154.200, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_uIdENq9V", server: 103.186.155.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_uiAAwLuf", server: 103.186.154.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_ymi3gsre", server: 103.186.154.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_xFuSnSbx", server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_yY9k5lcW", server: 103.186.155.225, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎪]_github.com/Ruk1ng001_ymoFkrFo", server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_1s1RCKzc", server: 134.209.147.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_4c4788fd", server: 2231962c-t9zts0-tdfzix-fm2v.de.oshuawei.com, port: 443, type: http, username: 3fed19ea-1671-11f0-bd2e-f23c9164ca5d, password: 3fed19ea-1671-11f0-bd2e-f23c9164ca5d, tls: true, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_4ccbbee6", server: 82.198.246.46, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_53a86449", server: v35.hdacd.com, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_56c5bbea", server: v33.hdacd.com, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_64dbbc26", server: v33.hdacd.com, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_6fcfb12f", server: v30.hdacd.com, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_7975eda9", server: 134.209.147.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_99365f4a", server: v45.hdacd.com, port: 30845, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_FQLMnmSE", server: testkr3.ssv.vc, port: 30446, type: http, username: test, password: test.+, tls: true, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_Y3magy4E", server: v35.hdacd.com, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_a1eed455", server: 5.188.181.201, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_b20aa943", server: nl-4.tr202507.com, port: 443, type: trojan, password: uThbm8eGmXZ7GKqnWy, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_c54db46d", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_d500baae", server: 2fc39b73-t9zts0-tdfzix-fm2v.jp.oshuawei.com, port: 443, type: http, username: 3fed19ea-1671-11f0-bd2e-f23c9164ca5d, password: 3fed19ea-1671-11f0-bd2e-f23c9164ca5d, tls: true, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_f74c5c39", server: testkr3.ssv.vc, port: 30446, type: http, username: test, password: test.+, tls: true, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_rT8TKIqy", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🎭]_github.com/Ruk1ng001_vma5U33I", server: v30.hdacd.com, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺📦]_github.com/Ruk1ng001_158e7101", server: v35.hdacd.com, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺📦]_github.com/Ruk1ng001_349d10c4", server: 3483dc6f-t9zts0-tdfzix-fm2v.id.oshuawei.com, port: 32233, type: http, username: 3fed19ea-1671-11f0-bd2e-f23c9164ca5d, password: 3fed19ea-1671-11f0-bd2e-f23c9164ca5d, tls: true, udp: true}
+  - {name: "[🎬🤖📺📦]_github.com/Ruk1ng001_A3mWd7qQ", server: 103.186.154.190, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺📦]_github.com/Ruk1ng001_e7ad0e8b", server: 103.186.154.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺📦]_github.com/Ruk1ng001_f09d6ab0", server: 103.186.154.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_04860b1c", server: sg6.stableq.top, port: 45203, type: hysteria2, password: abe421de-b82e-49f1-bd82-ec09b4b1b482, obfs: salamander, obfs-password: v3DkmNCkTvHQOenK, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_04ff7e59", server: jplic.osaip.net, port: 25055, type: trojan, password: ae21b132-c22c-4eb6-b78c-62c854c7ef80, network: grpc, grpc-opts: {grpc-service-name: violet}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_062ddc4a", server: 104.17.133.23, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_06d3d827", server: 104.16.244.238, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_08bb6f13", server: 68.168.31.169, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_09327b06", server: 45.32.210.244, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_0b418c1e", server: us1.f-vip.top, port: 25230, type: trojan, password: 3d1ee73d-9659-47b3-8db9-6eb591c74a04, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_0c6beb77", server: 149.88.23.207, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_0d9d017e", server: f3a9k5d8.gabuit.com, port: 48620, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_0dde21ce", server: 104.17.148.137, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_0f7da3fc", server: 46.38.157.183, port: 10004, type: hysteria2, password: fc4dd6fd-4a35-42f5-8208-bbb089747292, sni: 46.38.157.183, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_10ea8d04", server: f3a9k5d8.gabuit.com, port: 48609, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_13a504c1", server: tw3.jueduibupao.top, port: 46365, type: hysteria2, password: aa61a314-2d82-4509-b9fa-eb93a921b6ab, sni: tw3.jueduibupao.top, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_147155b5", server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_11fb6a50", server: usrna.osaip.net, port: 443, type: trojan, password: ae21b132-c22c-4eb6-b78c-62c854c7ef80, network: grpc, grpc-opts: {grpc-service-name: violet}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_1229f179", server: planb.mojcn.com, port: 16632, type: vmess, uuid: 49971471-35dc-40dd-8df1-5c61e0cbadad, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: a27da79b8c4aa35e0e9653dd2b051195.mobgslb.tbcache.com}}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_151f22c5", server: f3a9k5d8.gabuit.com, port: 48612, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_17e0d1c2", server: 103.186.154.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_1bcd2681", server: 82.198.246.46, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_1e667044", server: 61.216.165.233, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: (TG @WangCai2)aee97b7:155033}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_20d627c3", server: f3a9k5d8.gabuit.com, port: 48617, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_23d4e768", server: us9.stableq.top, port: 24422, type: trojan, password: a3ec0387-eed5-4b64-aec1-5b5a3519d62c, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2728799d", server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_25221450", server: jp2.f-vip.top, port: 25170, type: trojan, password: 3d1ee73d-9659-47b3-8db9-6eb591c74a04, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_27373651", server: 104.17.116.45, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_27694140", server: 217.30.10.70, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_27c3a677", server: 46.38.157.183, port: 10005, type: hysteria2, password: ab077d22-f952-45dd-843d-46ce0c60de19, sni: 46.38.157.183, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_28c20562", server: 103.228.171.213, port: 8443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_28fad68d", server: planb.mojcn.com, port: 16626, type: vmess, uuid: b49af8c9-0cf1-4212-8ed8-35b70d9f2cf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3416cbe57b7c52733721859d4e23be39.mobgslb.tbcache.com}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2bdfc667", server: 46.38.157.183, port: 10002, type: hysteria2, password: f8815861-9fa8-48a9-83b1-086823aff16e, sni: 46.38.157.183, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2cec89bf", server: vpn-us-019.fastervpn.world, port: 443, type: hysteria2, password: qQe1z5kU8kN6SlKnDt9Ru3Qp, sni: vpn-us-019.fastervpn.world, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d2f870a", server: 194.87.25.136, port: 443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d938a23", server: 144.31.116.8, port: 443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2df5f401", server: 104.17.150.250, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2edcf13d", server: 193.23.218.192, port: 443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2a92594c", server: 104.17.150.209, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d77cedc", server: yg1.ygkkk.dpdns.org, port: 443, type: trojan, password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5, sni: v.vivia.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v.vivia.cc.cd}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d9ee817", server: cf.090227.xyz, port: 443, type: trojan, password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5, sni: v.vivia.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v.vivia.cc.cd}}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_30cb0508", server: 84.17.41.2, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_32522bbd", server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_32546fa1", server: us9.stableq.top, port: 24421, type: trojan, password: a3ec0387-eed5-4b64-aec1-5b5a3519d62c, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_32747cc5", server: f3a9k5d8.gabuit.com, port: 48622, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_33da6ac5", server: 194.154.30.188, port: 443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_360ec7b0", server: 192.145.31.58, port: 2083, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_36395b7d", server: 172.64.53.66, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_3645ce4b", server: jp.co2.vn, port: 443, type: trojan, password: 58161c43-a349-4bb5-9bdf-f3510354f7ca, sni: www.linemo.jp, skip-cert-verify: true, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_37a2a00f", server: ru1.f-vip.top, port: 25360, type: trojan, password: 3d1ee73d-9659-47b3-8db9-6eb591c74a04, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_37bc1862", server: f3a9k5d8.gabuit.com, port: 48649, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_3c9f5802", server: sg6.stableq.top, port: 45103, type: hysteria2, password: 849a0e95-8d91-4fec-8158-246320490500, obfs: salamander, obfs-password: 9noYJA0bODeBONED, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_40795e6b", server: 144.31.197.186, port: 443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_42c23080", server: 163.5.63.129, port: 443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_3d345d6d", server: vpn-jp-005.fastervpn.world, port: 443, type: hysteria2, password: qQe1z5kU8kN6SlKnDt9Ru3Qp, sni: vpn-jp-005.fastervpn.world, skip-cert-verify: true, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_405bc67c", server: 198.41.223.107, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_43599aae", server: 103.186.154.73, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_44bb261b", server: 38.114.123.42, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_44bf228e", server: 151.236.0.53, port: 443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_459074ea", server: 217.30.10.70, port: 9045, type: ss, cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_48197c15", server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_4c938bcf", server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_466d40e3", server: 198.41.223.15, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_4d0cdcd4", server: us9.stableq.top, port: 24422, type: trojan, password: 6bd98eef-f37d-455d-a328-9e95b7544071, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_4d315c2e", server: 103.186.154.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_4f332119", server: jplic.osaip.net, port: 25055, type: trojan, password: 42682025-2ba8-4c59-aa6a-a3a60134830f, network: grpc, grpc-opts: {grpc-service-name: violet}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_51b3b0fd", server: 57.180.60.151, port: 3357, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_50f25734", server: sg2.f-vip.top, port: 25220, type: trojan, password: 3d1ee73d-9659-47b3-8db9-6eb591c74a04, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_5316ee6b", server: r3mrcg0011499tl.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_55d00e64", server: sg-hy2.onetaplink.app, port: 443, type: hysteria2, password: 48b36b6a-eaa6-4843-9231-0bb8b38b5da5, obfs: salamander, obfs-password: OrT7yQQIMqcvKdet, sni: hy2-sg.onetaplink.app, skip-cert-verify: true, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_591ca341", server: v2.kwaicdn.com.e3020.com, port: 50209, type: ss, cipher: chacha20-ietf-poly1305, password: f10367b9-5b67-40fa-a4aa-675eee3e0530, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_5a471472", server: 15.236.38.202, port: 80, type: ss, cipher: aes-256-gcm, password: dada1203, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_5cf9dd2d", server: f3a9k5d8.gabuit.com, port: 48624, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_65a5452e", server: twmoon1-cdn-route.couldflare-cdn.com, port: 1443, type: http, username: mrwdfNTD8M79LCukCieldrqZWqs=, password: exaxgqkKkd0TAMrCxeonWg==, tls: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_6c6d68b5", server: 103.186.154.148, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_6ca2e9de", server: 403880e.r8.gladns.com, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: 403880e.default.nintendo.eu:164892}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_70a5b130", server: 185.209.162.35, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_64328aac", server: 172.67.75.207, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_6a758bd9", server: 172.64.155.39, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_6d87948a", server: t.cnmjcn.cyou, port: 16618, type: vmess, uuid: 49971471-35dc-40dd-8df1-5c61e0cbadad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a27da79b8c4aa35e0e9653dd2b051195.mobgslb.tbcache.com}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_71bfda3f", server: vpn-jp-010.fastervpn.world, port: 443, type: hysteria2, password: qQe1z5kU8kN6SlKnDt9Ru3Qp, sni: vpn-jp-010.fastervpn.world, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_731c79a7", server: 217.30.10.70, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_7431276e", server: f3a9k5d8.gabuit.com, port: 48616, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_7631097e", server: f3a9k5d8.gabuit.com, port: 48621, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_776f674b", server: 57.128.177.191, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_77e02d93", server: 138.2.59.96, port: 10129, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a9dd388", server: 103.228.168.28, port: 2053, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_7f2e0456", server: 52.192.212.50, port: 80, type: ss, cipher: aes-256-gcm, password: dada1203, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_78120705", server: jplic.osaip.net, port: 25055, type: trojan, password: c098d53a-176b-48de-bfa6-450023210fab, network: grpc, grpc-opts: {grpc-service-name: violet}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a2bc43f", server: 173.245.58.225, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a93e78b", server: planb.mojcn.com, port: 16616, type: vmess, uuid: 49971471-35dc-40dd-8df1-5c61e0cbadad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a27da79b8c4aa35e0e9653dd2b051195.mobgslb.tbcache.com}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_7c67c4e0", server: bestcf.030101.xyz, port: 443, type: trojan, password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5, sni: v.vivia.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v.vivia.cc.cd}}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_81d2cc07", server: r3mrcg0011499tl.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: a9a0d092-6f0e-4701-81ee-454643d6d506, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_825c7f50", server: f3a9k5d8.gabuit.com, port: 48619, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a2b5f4d", server: 57.128.181.125, port: 8443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_838d4ffe", server: vpn-sg-002.fastervpn.world, port: 443, type: hysteria2, password: qQe1z5kU8kN6SlKnDt9Ru3Qp, sni: vpn-sg-002.fastervpn.world, skip-cert-verify: true, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_84dac5b0", server: 403880e.j6.gladns.com, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: 403880e.default.microsoft.io:164892}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a3b29b5", server: t.cnmjcn.cyou, port: 16618, type: vmess, uuid: 0f1fabc8-a9f4-47a6-8613-0cb9a026850b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3d6d9e1616638015f7c5c67085c5bfd8.mobgslb.tbcache.com}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a8c163c", server: vpn-tw-001.fastervpn.world, port: 443, type: hysteria2, password: qQe1z5kU8kN6SlKnDt9Ru3Qp, sni: vpn-tw-001.fastervpn.world, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8c45a443", server: vpn-jp-001.fastervpn.world, port: 443, type: hysteria2, password: qQe1z5kU8kN6SlKnDt9Ru3Qp, sni: vpn-jp-001.fastervpn.world, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8e583d1a", server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8f29686e", server: 93.183.69.225, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8f3cfa4f", server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8fb4fb07", server: f3a9k5d8.gabuit.com, port: 48650, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_8to0o3uc", server: 103.186.154.246, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_90fbdd2a", server: 207.174.28.26, port: 51372, type: hysteria2, password: 63289cca-13e1-4a39-98a5-2115a958d4c5, obfs: salamander, obfs-password: nDneuR2isso8k79O, sni: apple.com, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_91614699", server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_917b297a", server: 104.168.87.41, port: 16443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_94bc394d", server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_952adc14", server: tw3.jueduibupao.top, port: 41331, type: hysteria2, password: aa61a314-2d82-4509-b9fa-eb93a921b6ab, sni: tw3.jueduibupao.top, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_970258bb", server: cf.tencentapp.cn, port: 443, type: vmess, uuid: 0ae71444-3fc1-4e97-b801-e272506e4f79, alterId: 0, cipher: none, tls: true, skip-cert-verify: false, servername: instruction-galaxy-assure-excited.trycloudflare.com, network: ws, ws-opts: {path: /vmess-argo, headers: {Host: instruction-galaxy-assure-excited.trycloudflare.com}}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_98852895", server: f3a9k5d8.gabuit.com, port: 48603, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_98f66f1f", server: planb.mojcn.com, port: 16618, type: vmess, uuid: 49971471-35dc-40dd-8df1-5c61e0cbadad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a27da79b8c4aa35e0e9653dd2b051195.mobgslb.tbcache.com}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_99228e58", server: v2hk36.stableq.top, port: 44106, type: hysteria2, password: 652993a9-186e-4fb6-8498-994074eaf4b2, obfs: salamander, obfs-password: MWMyZWE0YjVmZTdiMDU3Zg==, sni: v2hk36.stableq.top, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_9a073f78", server: us9.stableq.top, port: 24421, type: trojan, password: 6980f9fc-80c2-4656-b8e3-73f8e98e5a47, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_9a2d14fa", server: vpn-sg-001.fastervpn.world, port: 443, type: hysteria2, password: qQe1z5kU8kN6SlKnDt9Ru3Qp, sni: vpn-sg-001.fastervpn.world, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_9c8881fc", server: 31.172.71.23, port: 443, type: trojan, password: !<str> 1234567890, sni: kfm-bn0.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/WangCai2🇨🇳", headers: {Host: kfm-bn0.pages.dev}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_9e52ef42", server: 56.155.89.207, port: 12308, type: trojan, password: b5c64cdc-ec6b-47c6-83b3-732e6f31e150, sni: jp02.ulifeai.com, skip-cert-verify: true, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_9cde5bf3", server: m.cnmjin.net, port: 16618, type: vmess, uuid: 0f1fabc8-a9f4-47a6-8613-0cb9a026850b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3d6d9e1616638015f7c5c67085c5bfd8.mobgslb.tbcache.com}}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_NKXNadE4", server: 217.30.10.70, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_QBzbKQnq", server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_R3reB2ti", server: 103.186.154.198, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_VQCnKXrm", server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_WQMpJDVC", server: 103.186.154.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_YfFpS45K", server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_a08270f5", server: 54.212.114.92, port: 80, type: ss, cipher: aes-256-gcm, password: dada1203, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_a57b72bc", server: 45e755.shlswe.xyz, port: 28605, type: ss, cipher: aes-128-gcm, password: f97cf7d99d, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_a654f017", server: f3a9k5d8.gabuit.com, port: 48604, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_a7015622", server: dianxin.19931101.xyz, port: 443, type: trojan, password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5, sni: v.vivia.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v.vivia.cc.cd}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_a95bd5dc", server: jp-hy2.onetaplink.app, port: 5443, type: hysteria2, password: 48b36b6a-eaa6-4843-9231-0bb8b38b5da5, obfs: salamander, obfs-password: CF7WJGiw6r1c8imX, sni: hy2-jp.onetaplink.app, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_ad08a828", server: cmcc.877774.xyz, port: 443, type: trojan, password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5, sni: v.vivia.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v.vivia.cc.cd}}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_adc01ac9", server: us9.stableq.top, port: 24413, type: trojan, password: 849a0e95-8d91-4fec-8158-246320490500, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_b07a8a7c", server: f3a9k5d8.gabuit.com, port: 48610, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_b2833742", server: planb.mojcn.com, port: 16618, type: vmess, uuid: 0f1fabc8-a9f4-47a6-8613-0cb9a026850b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3d6d9e1616638015f7c5c67085c5bfd8.mobgslb.tbcache.com}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_b3badc48", server: sg6.stableq.top, port: 45203, type: hysteria2, password: 44321c65-c3bd-45d9-82bc-1f584eda002d, obfs: salamander, obfs-password: v3DkmNCkTvHQOenK, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_b4hGqIRv", server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_b848223e", server: f3a9k5d8.gabuit.com, port: 48601, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_bafbac71", server: 57.128.183.40, port: 8443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_bb8d4ad7", server: 169.197.142.22, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_ba6bf46a", server: 172.64.52.92, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_bdf026a4", server: 67.220.95.3, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_bef76970", server: 172.64.146.11, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_bfd35cd5", server: f3a9k5d8.gabuit.com, port: 48602, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_c09hqT9Q", server: 217.30.10.70, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_c0ea8a70", server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_c4000015", server: sg6.stableq.top, port: 45303, type: hysteria2, password: b30b6dce-0ff5-4004-9660-797aaa739eb3, obfs: salamander, obfs-password: v3DkmNCkTvHQOenK, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_c5d553c9", server: jp02.a0a.xyz, port: 25686, type: vmess, uuid: 6733c357-ba11-4e9f-f00f-7d87f2776ff9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /cctv13.m3u8, headers: {Host: jp02.a0a.xyz}}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_cc83e70e", server: 107.173.34.130, port: 8443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_c675ded0", server: t.cnmjcn.cyou, port: 16616, type: vmess, uuid: 49971471-35dc-40dd-8df1-5c61e0cbadad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a27da79b8c4aa35e0e9653dd2b051195.mobgslb.tbcache.com}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_d17f80be", server: sg6.stableq.top, port: 45103, type: hysteria2, password: b30b6dce-0ff5-4004-9660-797aaa739eb3, obfs: salamander, obfs-password: 9noYJA0bODeBONED, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_d30ac8a1", server: 217.30.10.70, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_d7e3a760", server: 18.170.77.148, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_e14bcb52", server: twmoon1-cdn-route.couldflare-cdn.com, port: 1443, type: http, username: mrwdfNTD8M79LCukCieldrqZWqs=, password: mrwdfNTD8M79LCukCieldrqZWqs=, tls: true, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_e5240d65", server: 46.38.157.183, port: 10003, type: hysteria2, password: a722e51b-325e-4238-a480-02fe7d0dab28, sni: 46.38.157.183, skip-cert-verify: true, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_db7eda79", server: 66.103.198.70, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_e55b3026", server: 149.88.23.202, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_e66ab60b", server: smrt4-jp-1.twcc.eu.org, port: 18004, type: hysteria2, password: d9ac456f-d926-41dd-9d0f-86efdc538b89, sni: i0.hdslb.com, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_e8bb2372", server: sg6.stableq.top, port: 45103, type: hysteria2, password: 7d044ae7-408d-4cb6-a3f0-3a36e483a69e, obfs: salamander, obfs-password: 9noYJA0bODeBONED, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_eb472655", server: 46.38.157.183, port: 10001, type: hysteria2, password: ca6a629c-7c7e-4ee4-84b5-ab8984fd9579, sni: 46.38.157.183, skip-cert-verify: true, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_eb4f78bb", server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_e59437ad", server: 92.119.166.46, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: NffUh2mvk4HshUtyskEg9A, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_e65b50ee", server: 141.147.174.243, port: 443, type: trojan, password: "8r<[9'l6hAO#8ZQi", sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_ea557486", server: 198.41.223.119, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_ea7dbc97", server: ssr2.762988.xyz, port: 33336, type: ssr, cipher: chacha20-ietf, password: dongtaiwang.com, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: "", udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_ed115054", server: 104.16.95.5, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_f0ca25c8", server: planb.mojcn.com, port: 16648, type: vmess, uuid: 49971471-35dc-40dd-8df1-5c61e0cbadad, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: a27da79b8c4aa35e0e9653dd2b051195.mobgslb.tbcache.com}}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_f3849ebe", server: 154.19.242.20, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_f5734a12", server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_f775969c", server: 103.186.154.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_f9ea69f7", server: f3a9k5d8.gabuit.com, port: 48611, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_fae42059", server: 198.41.223.145, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_fb1e6cdf", server: hk2.f-vip.top, port: 25110, type: trojan, password: 3d1ee73d-9659-47b3-8db9-6eb591c74a04, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_fed60803", server: f3a9k5d8.gabuit.com, port: 48618, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_nzinQC3s", server: 103.186.154.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_rSvEyBEt", server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[🎬🤖📺🔍]_github.com/Ruk1ng001_uvmORnQW", server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🎬🤖🔍]_github.com/Ruk1ng001_8f3cfa4f", server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[🎬🧠📺🎭]_github.com/Ruk1ng001_6ce13559", server: 103.149.183.113, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
+  - {name: "[🎭🎪🎞️📦]_github.com/Ruk1ng001_6fcfb12f", server: v30.hdacd.com, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[📦]_github.com/Ruk1ng001_6Sz21tZ9", server: 103.141.221.124, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
-  - {name: "[📦]_github.com/Ruk1ng001_7e8902c3", server: 103.141.221.124, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
-  - {name: "[📺]_github.com/Ruk1ng001_405bc67c", server: 198.41.223.107, port: 443, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
-  - {name: "[📺]_github.com/Ruk1ng001_8d11db13", server: 103.141.221.124, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
-  - {name: "[📺]_github.com/Ruk1ng001_AJrBnYnC", server: 103.149.182.105, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
-  - {name: "[📺]_github.com/Ruk1ng001_b4962b18", server: 103.149.182.105, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
+  - {name: "[📺]_github.com/Ruk1ng001_7f2e0456", server: 52.192.212.50, port: 80, type: ss, cipher: aes-256-gcm, password: dada1203, udp: true}
   - {name: "[📺🎪✨🎞️]_github.com/Ruk1ng001_5693ee99", server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "[📺🔍]_github.com/Ruk1ng001_04ff0cd9", server: cf.tencentapp.cn, port: 443, type: vmess, uuid: 75179185-d785-4f07-a164-c257c5960f0d, alterId: 0, cipher: none, tls: true, skip-cert-verify: false, servername: jvc-postal-approval-mass.trycloudflare.com, network: ws, ws-opts: {path: /vmess-argo, headers: {Host: jvc-postal-approval-mass.trycloudflare.com}}, udp: true}
-  - {name: "[📺🔍]_github.com/Ruk1ng001_2b25a371", server: 46.17.44.206, port: 60290, type: ss, cipher: aes-256-gcm, password: f34579d0148b2581, udp: true}
-  - {name: "[📺🔍]_github.com/Ruk1ng001_6a15da33", server: 194.87.69.143, port: 12091, type: ss, cipher: aes-256-gcm, password: 83acf69edb4e5453, udp: true}
+  - {name: "[📺🎪✨🎞️]_github.com/Ruk1ng001_78b9019d", server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[📺🎪✨🎞️]_github.com/Ruk1ng001_nKaxeHVV", server: 103.186.154.192, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[📺🎪📦✈️]_github.com/Ruk1ng001_7a792309", server: 103.186.155.119, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[📺🎭🎞️📦]_github.com/Ruk1ng001_999afe87", server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[📺🔍]_github.com/Ruk1ng001_87203191", server: 185.22.155.49, port: 60129, type: ss, cipher: aes-256-gcm, password: 7ae4e68cf77f6089, udp: true}
-  - {name: "[📺🔍]_github.com/Ruk1ng001_9640bb6f", server: 45.140.169.225, port: 10974, type: ss, cipher: aes-256-gcm, password: c5fcdf7829112cb4, udp: true}
+  - {name: "[📺🔍]_github.com/Ruk1ng001_9bc17229", server: planb.mojcn.com, port: 16632, type: vmess, uuid: 0f1fabc8-a9f4-47a6-8613-0cb9a026850b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3d6d9e1616638015f7c5c67085c5bfd8.mobgslb.tbcache.com}}, udp: true}
   - {name: "[📺🔍]_github.com/Ruk1ng001_c5fbb263", server: 45.129.3.254, port: 60290, type: ss, cipher: aes-256-gcm, password: f34579d0148b2581, udp: true}
-  - {name: "[📺🔍]_github.com/Ruk1ng001_deecbda5", server: 195.133.5.36, port: 60129, type: ss, cipher: aes-256-gcm, password: 7ae4e68cf77f6089, udp: true}
-  - {name: "[🤖📺🎭🎪]_github.com/Ruk1ng001_5b8e1a9b", server: 121.169.46.116, port: 1090, type: socks5, username: Og%3D%3D, udp: true}
+  - {name: "[🔍]_github.com/Ruk1ng001_9640bb6f", server: 45.140.169.225, port: 10974, type: ss, cipher: aes-256-gcm, password: c5fcdf7829112cb4, udp: true}
+  - {name: "[🤖🎪📦]_github.com/Ruk1ng001_94cfe604", server: 103.186.154.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🤖📺🎪✨]_github.com/Ruk1ng001_01aa8f8c", server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🤖📺🎪✨]_github.com/Ruk1ng001_5a4f3de4", server: 103.186.155.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🤖📺🎪✨]_github.com/Ruk1ng001_73b9c989", server: 103.186.154.190, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🤖📺🎪✨]_github.com/Ruk1ng001_C6YA1BLt", server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: "[🤖📺🎭🎪]_github.com/Ruk1ng001_4ccbbee6", server: 82.198.246.46, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "[🤖📺🎭🎪]_github.com/Ruk1ng001_6e33e361", server: v30.hdacd.com, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[🤖📺🎭🎪]_github.com/Ruk1ng001_83ac171f", server: 5.188.181.201, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true}
-  - {name: "[🤖📺🎭🎪]_github.com/Ruk1ng001_9ff5bb75", server: 5.188.181.201, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true}
-  - {name: _github.com/Ruk1ng001_18bb4ecc, server: f3a9k5d8.gabuit.com, port: 48643, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
+  - {name: "[🤖📺🎭🎪]_github.com/Ruk1ng001_rT8TKIqy", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "[🤖📺🔍]_github.com/Ruk1ng001_7ef034b5", server: m.cnmjin.net, port: 16632, type: vmess, uuid: 0f1fabc8-a9f4-47a6-8613-0cb9a026850b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3d6d9e1616638015f7c5c67085c5bfd8.mobgslb.tbcache.com}}, udp: true}
+  - {name: "[🧠📺🎭🎪]_github.com/Ruk1ng001_b1d5a1c5", server: ss.020.node-for-bigairport.win, port: 11688, type: ss, cipher: aes-256-gcm, password: b0c9d775-32f7-459a-b24d-ecda7c9f3720, udp: true}
+  - {name: _github.com/Ruk1ng001_1084a7f0, server: hk4.f-vip.top, port: 25130, type: trojan, password: 3d1ee73d-9659-47b3-8db9-6eb591c74a04, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true}
   - {name: _github.com/Ruk1ng001_1a1175fa, server: f3a9k5d8.gabuit.com, port: 48614, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _github.com/Ruk1ng001_1d3263b2, server: f3a9k5d8.gabuit.com, port: 48660, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
   - {name: _github.com/Ruk1ng001_1d83a6e9, server: f3a9k5d8.gabuit.com, port: 48638, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
@@ -326,24 +321,24 @@ proxies:
   - {name: _github.com/Ruk1ng001_39139f33, server: f3a9k5d8.gabuit.com, port: 48636, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
   - {name: _github.com/Ruk1ng001_4155f243, server: f3a9k5d8.gabuit.com, port: 48613, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _github.com/Ruk1ng001_49b759c4, server: f3a9k5d8.gabuit.com, port: 48651, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
-  - {name: _github.com/Ruk1ng001_575c65a5, server: f3a9k5d8.gabuit.com, port: 48659, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
   - {name: _github.com/Ruk1ng001_58409493, server: f3a9k5d8.gabuit.com, port: 48615, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _github.com/Ruk1ng001_596f3e67, server: f3a9k5d8.gabuit.com, port: 48605, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
+  - {name: _github.com/Ruk1ng001_65a5452e, server: twmoon1-cdn-route.couldflare-cdn.com, port: 1443, type: http, username: mrwdfNTD8M79LCukCieldrqZWqs=, password: exaxgqkKkd0TAMrCxeonWg==, tls: true, udp: true}
   - {name: _github.com/Ruk1ng001_69a8dce5, server: 13.229.199.217, port: 80, type: ss, cipher: aes-256-gcm, password: dada1203, udp: true}
   - {name: _github.com/Ruk1ng001_6a1d8ac5, server: f3a9k5d8.gabuit.com, port: 48637, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _github.com/Ruk1ng001_6ff49bb1, server: f3a9k5d8.gabuit.com, port: 48644, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
   - {name: _github.com/Ruk1ng001_7ba44fdd, server: f3a9k5d8.gabuit.com, port: 48635, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _github.com/Ruk1ng001_8cb7b848, server: f3a9k5d8.gabuit.com, port: 48631, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
-  - {name: _github.com/Ruk1ng001_UsfVIo5P, server: 139.59.24.173, port: 1080, type: socks5, udp: true}
-  - {name: _github.com/Ruk1ng001_b258829a, server: f3a9k5d8.gabuit.com, port: 48627, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
-  - {name: _github.com/Ruk1ng001_bc3fd4a0, server: 93.185.166.62, port: 2053, type: ss, cipher: none, password: 79960b0b-7d31-4263-8915-6511b0e137a8, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: woshinidie-et3.pages.dev, path: "/79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560", tls: true, mux: false}, udp: true}
+  - {name: _github.com/Ruk1ng001_e14bcb52, server: twmoon1-cdn-route.couldflare-cdn.com, port: 1443, type: http, username: mrwdfNTD8M79LCukCieldrqZWqs=, password: mrwdfNTD8M79LCukCieldrqZWqs=, tls: true, skip-cert-verify: true, udp: true}
   - {name: _github.com/Ruk1ng001_e3124dd7, server: f3a9k5d8.gabuit.com, port: 48633, type: vmess, uuid: C52E418A-7E97-4891-8B7F-76F2C391F18F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: _github.com/Ruk1ng001_e8ec75c1, server: r3mrcg0011499tl.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7b56aeaa-8e2d-4bdf-b1d7-233ecca15f56, udp: true}
   - {name: _github.com/Ruk1ng001_ef2a0b94, server: 114.132.61.167, port: 8080, type: vmess, uuid: 8458f187-887d-4c57-bd59-4a75e5ccba9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+  - {name: "⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_17df1b46", server: sg6.stableq.top, port: 45203, type: hysteria2, password: 8558a404-5200-43b0-8f21-24c6c72b6f83, obfs: salamander, obfs-password: v3DkmNCkTvHQOenK, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
+  - {name: "⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_3479193a", server: sg6.stableq.top, port: 45203, type: hysteria2, password: 5b69d35e-36dc-499a-8bbc-9fb27dcf5e3b, obfs: salamander, obfs-password: v3DkmNCkTvHQOenK, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
+  - {name: "⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_456049ab", server: sg6.stableq.top, port: 45103, type: hysteria2, password: 3573305a-3145-4fb5-9134-08162ecfe530, obfs: salamander, obfs-password: 9noYJA0bODeBONED, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
+  - {name: "⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_9acc716b", server: sg6.stableq.top, port: 45103, type: hysteria2, password: 8b66f7ea-dd2b-4a47-af9d-8f05e1b0a695, obfs: salamander, obfs-password: 9noYJA0bODeBONED, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
   - {name: ⚪🏳️_github.com/Ruk1ng001_43f477b5, server: bestcf.030101.xyz, port: 443, type: trojan, password: 6202b230-417c-4d8e-b624-0f71afa9c75d, sni: sni.111000.dynv6.net, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560&proxyip=ip.111000.de5.net:443", headers: {Host: sni.111000.dynv6.net}}, udp: true}
   - {name: ⚪🏳️_github.com/Ruk1ng001_65add7bd, server: planb.mojcn.com, port: 16617, type: vmess, uuid: b49af8c9-0cf1-4212-8ed8-35b70d9f2cf4, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 3416cbe57b7c52733721859d4e23be39.mobgslb.tbcache.com}}, udp: true}
-  - {name: ⚪🏳️_github.com/Ruk1ng001_bad2fc4e, server: 45.8.112.156, port: 30011, type: ss, cipher: chacha20-ietf-poly1305, password: somebody, plugin: obfs, plugin-opts: {mode: http, host: 20xteamxa9-usa5-a7xr.update.microsoft.com}, udp: true}
-  - {name: ⚪🏳️_github.com/Ruk1ng001_d4306ef9, server: sg6.stableq.top, port: 45203, type: hysteria2, password: 6bd98eef-f37d-455d-a328-9e95b7544071, obfs: salamander, obfs-password: v3DkmNCkTvHQOenK, sni: sg6.stableq.top, skip-cert-verify: false, udp: true}
   - {name: ⚪🏳️_github.com/Ruk1ng001_f33562bf, server: f3a9k5d8.gabuit.com, port: 48630, type: ss, cipher: aes-256-gcm, password: C52E418A-7E97-4891-8B7F-76F2C391F18F, udp: true}
 proxy-groups:
   - name: ♻️自动选择
@@ -353,318 +348,313 @@ proxy-groups:
     tolerance: 1
     proxies:
       - "[🎬]_github.com/Ruk1ng001_69a38f0d"
-      - "[🎬]_github.com/Ruk1ng001_TAy4COsc"
-      - "[🎬]_github.com/Ruk1ng001_a777e2be"
       - "[🎬🎭🎞️📦]_github.com/Ruk1ng001_a88e970f"
-      - "[🎬📺🎭🎪]_github.com/Ruk1ng001_655b2a1d"
-      - "[🎬📺🎭🎪]_github.com/Ruk1ng001_c7ad8a6c"
+      - "[🎬📺]_github.com/Ruk1ng001_77decc77"
+      - "[🎬📺🎪✨]_github.com/Ruk1ng001_SGaJddwP"
+      - "[🎬📺🎪✨]_github.com/Ruk1ng001_aff89e31"
       - "[🎬📺🎭🎪]_github.com/Ruk1ng001_f6ccc010"
+      - "[🎬📺📦]_github.com/Ruk1ng001_7e8902c3"
       - "[🎬📺🔍]_github.com/Ruk1ng001_095ec79f"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_17a74a12"
       - "[🎬📺🔍]_github.com/Ruk1ng001_22bb1257"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_26c00ac2"
       - "[🎬📺🔍]_github.com/Ruk1ng001_2f1ab35a"
       - "[🎬📺🔍]_github.com/Ruk1ng001_36a9f12f"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_595e4859"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_5af20bb8"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_6d0b4f88"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_81bcef77"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_9653ac9a"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_a2b415f3"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_43eb0284"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_4b60a968"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_9fce27a9"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_AJrBnYnC"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_TAy4COsc"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_a09035e0"
       - "[🎬📺🔍]_github.com/Ruk1ng001_c241f40b"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_c4d5bfa0"
       - "[🎬📺🔍]_github.com/Ruk1ng001_c6aae1d7"
       - "[🎬📺🔍]_github.com/Ruk1ng001_d3a78d40"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_d96222c6"
-      - "[🎬🔍]_github.com/Ruk1ng001_e13ea76d"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_fcae46d9"
       - "[🎬🤖📺]_github.com/Ruk1ng001_b8c6b1b3"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_016436c4"
-      - "[🎬🤖📺✨]_github.com/Ruk1ng001_27186d77"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_3d9e829f"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_3ee43ae4"
-      - "[🎬🤖📺✨]_github.com/Ruk1ng001_66050fbf"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_80839739"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_8089e69a"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_9afe2927"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_a7d99321"
+      - "[🎬🤖📺✨]_github.com/Ruk1ng001_b710618a"
+      - "[🎬🤖📺✨]_github.com/Ruk1ng001_jvkOkCPM"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_rjHesHay"
+      - "[🎬🤖📺✨]_github.com/Ruk1ng001_wTJyy5xw"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_xjhOrSrl"
       - "[🎬🤖📺🎞️]_github.com/Ruk1ng001_43df76a7"
       - "[🎬🤖📺🎞️]_github.com/Ruk1ng001_6b181969"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_01d78e89"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_0abfd6d5"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_0s3cUpxR"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_106b5f08"
+      - "[🎬🤖📺🎞️]_github.com/Ruk1ng001_AReYArQC"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_028054f6"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_03383596"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_09fc0a83"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_10ee6f15"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_18c69002"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_18b0178d"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_1DE6RNvn"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_1e11f7da"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_1edb8289"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_1c6aa3fc"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_247b79fa"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_263d48e7"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2FyQs9Jd"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2OZzNY3p"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2QGTXDVe"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2a631a90"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2cbca029"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2d9c2d4e"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2f987ac2"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2fbb1991"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2lAncz7v"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_314a1766"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_3b452b00"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_3cc9bb42"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_412853c3"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_37825361"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_38ae5d7b"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_441affdf"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_452f4fc4"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_45d18063"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_47ba6dd1"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_48ff31ba"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_4HLcYZjM"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_4b9bad28"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_4qFRruLn"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_53046d67"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_58814c72"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_5994ea5c"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_5a451524"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_5db57876"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_5f9e5346"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_609288f2"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_62a1e52d"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6356308c"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_658008d3"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6hJkZwUo"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_65a41ab1"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6b9bc956"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6baaf45c"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6f691e9a"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6k4bMZH2"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6ldDrB8T"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7155237f"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_736af9b4"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7759206f"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_779ae6fa"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7J4SNQwH"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7VP5FfKQ"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7b2c7eaa"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7bbd20b9"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7e2e7c04"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7cec8d08"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_80ef8445"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_87f48738"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8820f33b"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8L9t6Qn6"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8a407a42"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8a6eb984"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8b8e0bb7"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8c6fdbbb"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8f934fa9"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8fc74a25"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9058d6d2"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_925eef3c"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_94cfe604"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_97be1d46"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9a4b2908"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9bdcfa6a"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9fdYHLHz"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_BTE42O2P"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9ccf02db"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_BlZoU06j"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_CDILj5vg"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_DLVLCAXK"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Dr3cso7g"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_G2y08IeM"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_HiYDPfSE"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_JEYZeebo"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_JiswlGEl"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_LVvPV8wP"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_M9429sKu"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_MqBd9jv2"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_O82rif13"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_OQ7TuJJl"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Q6wtNPTe"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_RntLmUjg"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Sny8wcFT"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_T0iLxagy"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_TK6aYZMy"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Ti2Juczf"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Tol05E0t"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_VbbrTTPl"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_a0cce614"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_a3780a7e"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ac38eb10"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ad5c9b1a"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ae657804"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_amwXj0U8"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_b0cdb25b"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_b42c9b83"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_b42cb034"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_b56efd34"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_baaec2ab"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_baf40cf1"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_bb7233ce"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_bc0c1c9a"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_be28e96c"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_beb3a303"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c1186815"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_bpgReLZX"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c278fe70"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c6eda18f"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c7934fff"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_cdbab935"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c92dea43"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c9edb6f2"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_cb7bf1b4"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d2VrAaHk"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d4fa68ee"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d549fd56"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d5d1e8b7"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_db0358bc"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_dcee8b24"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_de4d76c6"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d7306a09"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_dd1a5baa"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_dgz51Zvg"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_e02da361"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_e0358308"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_e6f1f994"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_e82164f4"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ec6b3263"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_eecb3d7d"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_f17930c6"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_f19e822f"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_f3ace148"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_f8463e48"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ffafa431"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_g8mCD38k"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_gIGaWvKT"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_inlv8lqC"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_j0LruYBj"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_kY1loFao"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_mX85PF6R"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_mmEKzvps"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_pnyqVvES"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_tPNcDL3M"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_nlncEjqC"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ntCloBAx"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_pa6Z9nE7"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_qAhv7Qn8"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_uIdENq9V"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_uiAAwLuf"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ymi3gsre"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_xFuSnSbx"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_yY9k5lcW"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ymoFkrFo"
+      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_1s1RCKzc"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_4c4788fd"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_4ccbbee6"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_53a86449"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_56c5bbea"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_64dbbc26"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_6fcfb12f"
+      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_7975eda9"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_99365f4a"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_FQLMnmSE"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_Y3magy4E"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_a1eed455"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_b20aa943"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_c54db46d"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_d500baae"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_f74c5c39"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_rT8TKIqy"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_vma5U33I"
-      - "[🎬🤖📺📦]_github.com/Ruk1ng001_158e7101"
       - "[🎬🤖📺📦]_github.com/Ruk1ng001_349d10c4"
+      - "[🎬🤖📺📦]_github.com/Ruk1ng001_A3mWd7qQ"
       - "[🎬🤖📺📦]_github.com/Ruk1ng001_e7ad0e8b"
       - "[🎬🤖📺📦]_github.com/Ruk1ng001_f09d6ab0"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_04860b1c"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_04ff7e59"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_062ddc4a"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_06d3d827"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_08bb6f13"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_09327b06"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0b418c1e"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0c6beb77"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0d9d017e"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0dde21ce"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0f7da3fc"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_10ea8d04"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_13a504c1"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_147155b5"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_11fb6a50"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_1229f179"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_151f22c5"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_17e0d1c2"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_1bcd2681"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_1e667044"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_20d627c3"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_23d4e768"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2728799d"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_25221450"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_27373651"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_27694140"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_27c3a677"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_28c20562"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_28fad68d"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2bdfc667"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2cec89bf"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d2f870a"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d938a23"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2df5f401"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2edcf13d"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2a92594c"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d77cedc"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d9ee817"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_30cb0508"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_32522bbd"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_32546fa1"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_32747cc5"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_33da6ac5"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_360ec7b0"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_36395b7d"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_3645ce4b"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_37a2a00f"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_37bc1862"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_3c9f5802"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_40795e6b"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_42c23080"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_3d345d6d"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_405bc67c"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_43599aae"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_44bb261b"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_44bf228e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_459074ea"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_48197c15"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_4c938bcf"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_466d40e3"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_4d0cdcd4"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_4d315c2e"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_4f332119"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_51b3b0fd"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_50f25734"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_5316ee6b"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_55d00e64"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_591ca341"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_5a471472"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_5cf9dd2d"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_65a5452e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_6c6d68b5"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_6ca2e9de"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_70a5b130"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_64328aac"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_6a758bd9"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_6d87948a"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_71bfda3f"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_731c79a7"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7431276e"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7631097e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_776f674b"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_77e02d93"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a9dd388"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7f2e0456"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_78120705"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a2bc43f"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a93e78b"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7c67c4e0"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_81d2cc07"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_825c7f50"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a2b5f4d"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_838d4ffe"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_84dac5b0"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a3b29b5"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a8c163c"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8c45a443"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8e583d1a"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8f29686e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8f3cfa4f"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8fb4fb07"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8to0o3uc"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_90fbdd2a"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_91614699"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_917b297a"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_94bc394d"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_952adc14"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_970258bb"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_98852895"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_98f66f1f"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_99228e58"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9a073f78"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9a2d14fa"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9c8881fc"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9e52ef42"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9cde5bf3"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_NKXNadE4"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_QBzbKQnq"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_R3reB2ti"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_VQCnKXrm"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_WQMpJDVC"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_YfFpS45K"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a08270f5"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a57b72bc"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a654f017"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a7015622"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a95bd5dc"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ad08a828"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_adc01ac9"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b07a8a7c"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b2833742"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b3badc48"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b4hGqIRv"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b848223e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bafbac71"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bb8d4ad7"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ba6bf46a"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bdf026a4"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bef76970"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bfd35cd5"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c09hqT9Q"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c0ea8a70"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c4000015"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c5d553c9"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_cc83e70e"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c675ded0"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_d17f80be"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_d30ac8a1"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_d7e3a760"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e14bcb52"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e5240d65"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_db7eda79"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e55b3026"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e66ab60b"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e8bb2372"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_eb472655"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_eb4f78bb"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e59437ad"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e65b50ee"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ea557486"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ea7dbc97"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ed115054"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f0ca25c8"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f3849ebe"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f5734a12"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f775969c"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f9ea69f7"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_fae42059"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_fb1e6cdf"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_fed60803"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_nzinQC3s"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_rSvEyBEt"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_uvmORnQW"
+      - "[🎬🤖🔍]_github.com/Ruk1ng001_8f3cfa4f"
       - "[🎬🧠📺🎭]_github.com/Ruk1ng001_6ce13559"
+      - "[🎭🎪🎞️📦]_github.com/Ruk1ng001_6fcfb12f"
       - "[📦]_github.com/Ruk1ng001_6Sz21tZ9"
-      - "[📦]_github.com/Ruk1ng001_7e8902c3"
-      - "[📺]_github.com/Ruk1ng001_405bc67c"
-      - "[📺]_github.com/Ruk1ng001_8d11db13"
-      - "[📺]_github.com/Ruk1ng001_AJrBnYnC"
-      - "[📺]_github.com/Ruk1ng001_b4962b18"
+      - "[📺]_github.com/Ruk1ng001_7f2e0456"
       - "[📺🎪✨🎞️]_github.com/Ruk1ng001_5693ee99"
-      - "[📺🔍]_github.com/Ruk1ng001_04ff0cd9"
-      - "[📺🔍]_github.com/Ruk1ng001_2b25a371"
-      - "[📺🔍]_github.com/Ruk1ng001_6a15da33"
+      - "[📺🎪✨🎞️]_github.com/Ruk1ng001_78b9019d"
+      - "[📺🎪✨🎞️]_github.com/Ruk1ng001_nKaxeHVV"
+      - "[📺🎪📦✈️]_github.com/Ruk1ng001_7a792309"
+      - "[📺🎭🎞️📦]_github.com/Ruk1ng001_999afe87"
       - "[📺🔍]_github.com/Ruk1ng001_87203191"
-      - "[📺🔍]_github.com/Ruk1ng001_9640bb6f"
+      - "[📺🔍]_github.com/Ruk1ng001_9bc17229"
       - "[📺🔍]_github.com/Ruk1ng001_c5fbb263"
-      - "[📺🔍]_github.com/Ruk1ng001_deecbda5"
-      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_5b8e1a9b"
+      - "[🔍]_github.com/Ruk1ng001_9640bb6f"
+      - "[🤖🎪📦]_github.com/Ruk1ng001_94cfe604"
+      - "[🤖📺🎪✨]_github.com/Ruk1ng001_01aa8f8c"
+      - "[🤖📺🎪✨]_github.com/Ruk1ng001_5a4f3de4"
+      - "[🤖📺🎪✨]_github.com/Ruk1ng001_73b9c989"
+      - "[🤖📺🎪✨]_github.com/Ruk1ng001_C6YA1BLt"
+      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_4ccbbee6"
       - "[🤖📺🎭🎪]_github.com/Ruk1ng001_6e33e361"
-      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_83ac171f"
-      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_9ff5bb75"
-      - _github.com/Ruk1ng001_18bb4ecc
+      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_rT8TKIqy"
+      - "[🤖📺🔍]_github.com/Ruk1ng001_7ef034b5"
+      - "[🧠📺🎭🎪]_github.com/Ruk1ng001_b1d5a1c5"
+      - _github.com/Ruk1ng001_1084a7f0
       - _github.com/Ruk1ng001_1a1175fa
       - _github.com/Ruk1ng001_1d3263b2
       - _github.com/Ruk1ng001_1d83a6e9
@@ -673,24 +663,24 @@ proxy-groups:
       - _github.com/Ruk1ng001_39139f33
       - _github.com/Ruk1ng001_4155f243
       - _github.com/Ruk1ng001_49b759c4
-      - _github.com/Ruk1ng001_575c65a5
       - _github.com/Ruk1ng001_58409493
       - _github.com/Ruk1ng001_596f3e67
+      - _github.com/Ruk1ng001_65a5452e
       - _github.com/Ruk1ng001_69a8dce5
       - _github.com/Ruk1ng001_6a1d8ac5
       - _github.com/Ruk1ng001_6ff49bb1
       - _github.com/Ruk1ng001_7ba44fdd
       - _github.com/Ruk1ng001_8cb7b848
-      - _github.com/Ruk1ng001_UsfVIo5P
-      - _github.com/Ruk1ng001_b258829a
-      - _github.com/Ruk1ng001_bc3fd4a0
+      - _github.com/Ruk1ng001_e14bcb52
       - _github.com/Ruk1ng001_e3124dd7
       - _github.com/Ruk1ng001_e8ec75c1
       - _github.com/Ruk1ng001_ef2a0b94
+      - ⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_17df1b46
+      - ⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_3479193a
+      - ⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_456049ab
+      - ⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_9acc716b
       - ⚪🏳️_github.com/Ruk1ng001_43f477b5
       - ⚪🏳️_github.com/Ruk1ng001_65add7bd
-      - ⚪🏳️_github.com/Ruk1ng001_bad2fc4e
-      - ⚪🏳️_github.com/Ruk1ng001_d4306ef9
       - ⚪🏳️_github.com/Ruk1ng001_f33562bf
   - name: 🚀节点选择
     type: select
@@ -698,318 +688,313 @@ proxy-groups:
       - ♻️自动选择
       - DIRECT
       - "[🎬]_github.com/Ruk1ng001_69a38f0d"
-      - "[🎬]_github.com/Ruk1ng001_TAy4COsc"
-      - "[🎬]_github.com/Ruk1ng001_a777e2be"
       - "[🎬🎭🎞️📦]_github.com/Ruk1ng001_a88e970f"
-      - "[🎬📺🎭🎪]_github.com/Ruk1ng001_655b2a1d"
-      - "[🎬📺🎭🎪]_github.com/Ruk1ng001_c7ad8a6c"
+      - "[🎬📺]_github.com/Ruk1ng001_77decc77"
+      - "[🎬📺🎪✨]_github.com/Ruk1ng001_SGaJddwP"
+      - "[🎬📺🎪✨]_github.com/Ruk1ng001_aff89e31"
       - "[🎬📺🎭🎪]_github.com/Ruk1ng001_f6ccc010"
+      - "[🎬📺📦]_github.com/Ruk1ng001_7e8902c3"
       - "[🎬📺🔍]_github.com/Ruk1ng001_095ec79f"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_17a74a12"
       - "[🎬📺🔍]_github.com/Ruk1ng001_22bb1257"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_26c00ac2"
       - "[🎬📺🔍]_github.com/Ruk1ng001_2f1ab35a"
       - "[🎬📺🔍]_github.com/Ruk1ng001_36a9f12f"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_595e4859"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_5af20bb8"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_6d0b4f88"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_81bcef77"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_9653ac9a"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_a2b415f3"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_43eb0284"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_4b60a968"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_9fce27a9"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_AJrBnYnC"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_TAy4COsc"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_a09035e0"
       - "[🎬📺🔍]_github.com/Ruk1ng001_c241f40b"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_c4d5bfa0"
       - "[🎬📺🔍]_github.com/Ruk1ng001_c6aae1d7"
       - "[🎬📺🔍]_github.com/Ruk1ng001_d3a78d40"
-      - "[🎬📺🔍]_github.com/Ruk1ng001_d96222c6"
-      - "[🎬🔍]_github.com/Ruk1ng001_e13ea76d"
+      - "[🎬📺🔍]_github.com/Ruk1ng001_fcae46d9"
       - "[🎬🤖📺]_github.com/Ruk1ng001_b8c6b1b3"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_016436c4"
-      - "[🎬🤖📺✨]_github.com/Ruk1ng001_27186d77"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_3d9e829f"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_3ee43ae4"
-      - "[🎬🤖📺✨]_github.com/Ruk1ng001_66050fbf"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_80839739"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_8089e69a"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_9afe2927"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_a7d99321"
+      - "[🎬🤖📺✨]_github.com/Ruk1ng001_b710618a"
+      - "[🎬🤖📺✨]_github.com/Ruk1ng001_jvkOkCPM"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_rjHesHay"
+      - "[🎬🤖📺✨]_github.com/Ruk1ng001_wTJyy5xw"
       - "[🎬🤖📺✨]_github.com/Ruk1ng001_xjhOrSrl"
       - "[🎬🤖📺🎞️]_github.com/Ruk1ng001_43df76a7"
       - "[🎬🤖📺🎞️]_github.com/Ruk1ng001_6b181969"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_01d78e89"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_0abfd6d5"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_0s3cUpxR"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_106b5f08"
+      - "[🎬🤖📺🎞️]_github.com/Ruk1ng001_AReYArQC"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_028054f6"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_03383596"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_09fc0a83"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_10ee6f15"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_18c69002"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_18b0178d"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_1DE6RNvn"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_1e11f7da"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_1edb8289"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_1c6aa3fc"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_247b79fa"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_263d48e7"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2FyQs9Jd"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2OZzNY3p"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2QGTXDVe"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2a631a90"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2cbca029"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2d9c2d4e"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2f987ac2"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2fbb1991"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_2lAncz7v"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_314a1766"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_3b452b00"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_3cc9bb42"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_412853c3"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_37825361"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_38ae5d7b"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_441affdf"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_452f4fc4"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_45d18063"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_47ba6dd1"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_48ff31ba"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_4HLcYZjM"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_4b9bad28"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_4qFRruLn"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_53046d67"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_58814c72"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_5994ea5c"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_5a451524"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_5db57876"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_5f9e5346"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_609288f2"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_62a1e52d"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6356308c"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_658008d3"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6hJkZwUo"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_65a41ab1"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6b9bc956"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6baaf45c"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6f691e9a"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6k4bMZH2"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_6ldDrB8T"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7155237f"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_736af9b4"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7759206f"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_779ae6fa"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7J4SNQwH"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7VP5FfKQ"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7b2c7eaa"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7bbd20b9"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7e2e7c04"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_7cec8d08"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_80ef8445"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_87f48738"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8820f33b"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8L9t6Qn6"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8a407a42"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8a6eb984"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8b8e0bb7"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8c6fdbbb"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8f934fa9"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_8fc74a25"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9058d6d2"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_925eef3c"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_94cfe604"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_97be1d46"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9a4b2908"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9bdcfa6a"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9fdYHLHz"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_BTE42O2P"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_9ccf02db"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_BlZoU06j"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_CDILj5vg"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_DLVLCAXK"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Dr3cso7g"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_G2y08IeM"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_HiYDPfSE"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_JEYZeebo"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_JiswlGEl"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_LVvPV8wP"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_M9429sKu"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_MqBd9jv2"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_O82rif13"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_OQ7TuJJl"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Q6wtNPTe"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_RntLmUjg"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Sny8wcFT"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_T0iLxagy"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_TK6aYZMy"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Ti2Juczf"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_Tol05E0t"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_VbbrTTPl"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_a0cce614"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_a3780a7e"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ac38eb10"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ad5c9b1a"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ae657804"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_amwXj0U8"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_b0cdb25b"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_b42c9b83"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_b42cb034"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_b56efd34"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_baaec2ab"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_baf40cf1"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_bb7233ce"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_bc0c1c9a"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_be28e96c"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_beb3a303"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c1186815"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_bpgReLZX"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c278fe70"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c6eda18f"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c7934fff"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_cdbab935"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c92dea43"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_c9edb6f2"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_cb7bf1b4"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d2VrAaHk"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d4fa68ee"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d549fd56"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d5d1e8b7"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_db0358bc"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_dcee8b24"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_de4d76c6"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_d7306a09"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_dd1a5baa"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_dgz51Zvg"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_e02da361"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_e0358308"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_e6f1f994"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_e82164f4"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ec6b3263"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_eecb3d7d"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_f17930c6"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_f19e822f"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_f3ace148"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_f8463e48"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ffafa431"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_g8mCD38k"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_gIGaWvKT"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_inlv8lqC"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_j0LruYBj"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_kY1loFao"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_mX85PF6R"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_mmEKzvps"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_pnyqVvES"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_tPNcDL3M"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_nlncEjqC"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ntCloBAx"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_pa6Z9nE7"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_qAhv7Qn8"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_uIdENq9V"
       - "[🎬🤖📺🎪]_github.com/Ruk1ng001_uiAAwLuf"
-      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ymi3gsre"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_xFuSnSbx"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_yY9k5lcW"
+      - "[🎬🤖📺🎪]_github.com/Ruk1ng001_ymoFkrFo"
+      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_1s1RCKzc"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_4c4788fd"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_4ccbbee6"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_53a86449"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_56c5bbea"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_64dbbc26"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_6fcfb12f"
+      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_7975eda9"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_99365f4a"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_FQLMnmSE"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_Y3magy4E"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_a1eed455"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_b20aa943"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_c54db46d"
       - "[🎬🤖📺🎭]_github.com/Ruk1ng001_d500baae"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_f74c5c39"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_rT8TKIqy"
-      - "[🎬🤖📺🎭]_github.com/Ruk1ng001_vma5U33I"
-      - "[🎬🤖📺📦]_github.com/Ruk1ng001_158e7101"
       - "[🎬🤖📺📦]_github.com/Ruk1ng001_349d10c4"
+      - "[🎬🤖📺📦]_github.com/Ruk1ng001_A3mWd7qQ"
       - "[🎬🤖📺📦]_github.com/Ruk1ng001_e7ad0e8b"
       - "[🎬🤖📺📦]_github.com/Ruk1ng001_f09d6ab0"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_04860b1c"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_04ff7e59"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_062ddc4a"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_06d3d827"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_08bb6f13"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_09327b06"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0b418c1e"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0c6beb77"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0d9d017e"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0dde21ce"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_0f7da3fc"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_10ea8d04"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_13a504c1"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_147155b5"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_11fb6a50"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_1229f179"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_151f22c5"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_17e0d1c2"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_1bcd2681"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_1e667044"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_20d627c3"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_23d4e768"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2728799d"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_25221450"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_27373651"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_27694140"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_27c3a677"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_28c20562"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_28fad68d"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2bdfc667"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2cec89bf"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d2f870a"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d938a23"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2df5f401"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2edcf13d"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2a92594c"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d77cedc"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_2d9ee817"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_30cb0508"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_32522bbd"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_32546fa1"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_32747cc5"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_33da6ac5"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_360ec7b0"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_36395b7d"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_3645ce4b"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_37a2a00f"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_37bc1862"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_3c9f5802"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_40795e6b"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_42c23080"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_3d345d6d"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_405bc67c"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_43599aae"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_44bb261b"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_44bf228e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_459074ea"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_48197c15"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_4c938bcf"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_466d40e3"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_4d0cdcd4"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_4d315c2e"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_4f332119"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_51b3b0fd"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_50f25734"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_5316ee6b"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_55d00e64"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_591ca341"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_5a471472"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_5cf9dd2d"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_65a5452e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_6c6d68b5"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_6ca2e9de"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_70a5b130"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_64328aac"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_6a758bd9"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_6d87948a"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_71bfda3f"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_731c79a7"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7431276e"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7631097e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_776f674b"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_77e02d93"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a9dd388"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7f2e0456"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_78120705"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a2bc43f"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7a93e78b"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_7c67c4e0"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_81d2cc07"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_825c7f50"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a2b5f4d"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_838d4ffe"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_84dac5b0"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a3b29b5"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8a8c163c"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8c45a443"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8e583d1a"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8f29686e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8f3cfa4f"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8fb4fb07"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_8to0o3uc"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_90fbdd2a"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_91614699"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_917b297a"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_94bc394d"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_952adc14"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_970258bb"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_98852895"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_98f66f1f"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_99228e58"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9a073f78"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9a2d14fa"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9c8881fc"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9e52ef42"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_9cde5bf3"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_NKXNadE4"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_QBzbKQnq"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_R3reB2ti"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_VQCnKXrm"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_WQMpJDVC"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_YfFpS45K"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a08270f5"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a57b72bc"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a654f017"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a7015622"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_a95bd5dc"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ad08a828"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_adc01ac9"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b07a8a7c"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b2833742"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b3badc48"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b4hGqIRv"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_b848223e"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bafbac71"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bb8d4ad7"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ba6bf46a"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bdf026a4"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bef76970"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_bfd35cd5"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c09hqT9Q"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c0ea8a70"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c4000015"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c5d553c9"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_cc83e70e"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_c675ded0"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_d17f80be"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_d30ac8a1"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_d7e3a760"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e14bcb52"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e5240d65"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_db7eda79"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e55b3026"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e66ab60b"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e8bb2372"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_eb472655"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_eb4f78bb"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e59437ad"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_e65b50ee"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ea557486"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ea7dbc97"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_ed115054"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f0ca25c8"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f3849ebe"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f5734a12"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f775969c"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_f9ea69f7"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_fae42059"
+      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_fb1e6cdf"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_fed60803"
       - "[🎬🤖📺🔍]_github.com/Ruk1ng001_nzinQC3s"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_rSvEyBEt"
-      - "[🎬🤖📺🔍]_github.com/Ruk1ng001_uvmORnQW"
+      - "[🎬🤖🔍]_github.com/Ruk1ng001_8f3cfa4f"
       - "[🎬🧠📺🎭]_github.com/Ruk1ng001_6ce13559"
+      - "[🎭🎪🎞️📦]_github.com/Ruk1ng001_6fcfb12f"
       - "[📦]_github.com/Ruk1ng001_6Sz21tZ9"
-      - "[📦]_github.com/Ruk1ng001_7e8902c3"
-      - "[📺]_github.com/Ruk1ng001_405bc67c"
-      - "[📺]_github.com/Ruk1ng001_8d11db13"
-      - "[📺]_github.com/Ruk1ng001_AJrBnYnC"
-      - "[📺]_github.com/Ruk1ng001_b4962b18"
+      - "[📺]_github.com/Ruk1ng001_7f2e0456"
       - "[📺🎪✨🎞️]_github.com/Ruk1ng001_5693ee99"
-      - "[📺🔍]_github.com/Ruk1ng001_04ff0cd9"
-      - "[📺🔍]_github.com/Ruk1ng001_2b25a371"
-      - "[📺🔍]_github.com/Ruk1ng001_6a15da33"
+      - "[📺🎪✨🎞️]_github.com/Ruk1ng001_78b9019d"
+      - "[📺🎪✨🎞️]_github.com/Ruk1ng001_nKaxeHVV"
+      - "[📺🎪📦✈️]_github.com/Ruk1ng001_7a792309"
+      - "[📺🎭🎞️📦]_github.com/Ruk1ng001_999afe87"
       - "[📺🔍]_github.com/Ruk1ng001_87203191"
-      - "[📺🔍]_github.com/Ruk1ng001_9640bb6f"
+      - "[📺🔍]_github.com/Ruk1ng001_9bc17229"
       - "[📺🔍]_github.com/Ruk1ng001_c5fbb263"
-      - "[📺🔍]_github.com/Ruk1ng001_deecbda5"
-      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_5b8e1a9b"
+      - "[🔍]_github.com/Ruk1ng001_9640bb6f"
+      - "[🤖🎪📦]_github.com/Ruk1ng001_94cfe604"
+      - "[🤖📺🎪✨]_github.com/Ruk1ng001_01aa8f8c"
+      - "[🤖📺🎪✨]_github.com/Ruk1ng001_5a4f3de4"
+      - "[🤖📺🎪✨]_github.com/Ruk1ng001_73b9c989"
+      - "[🤖📺🎪✨]_github.com/Ruk1ng001_C6YA1BLt"
+      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_4ccbbee6"
       - "[🤖📺🎭🎪]_github.com/Ruk1ng001_6e33e361"
-      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_83ac171f"
-      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_9ff5bb75"
-      - _github.com/Ruk1ng001_18bb4ecc
+      - "[🤖📺🎭🎪]_github.com/Ruk1ng001_rT8TKIqy"
+      - "[🤖📺🔍]_github.com/Ruk1ng001_7ef034b5"
+      - "[🧠📺🎭🎪]_github.com/Ruk1ng001_b1d5a1c5"
+      - _github.com/Ruk1ng001_1084a7f0
       - _github.com/Ruk1ng001_1a1175fa
       - _github.com/Ruk1ng001_1d3263b2
       - _github.com/Ruk1ng001_1d83a6e9
@@ -1018,24 +1003,24 @@ proxy-groups:
       - _github.com/Ruk1ng001_39139f33
       - _github.com/Ruk1ng001_4155f243
       - _github.com/Ruk1ng001_49b759c4
-      - _github.com/Ruk1ng001_575c65a5
       - _github.com/Ruk1ng001_58409493
       - _github.com/Ruk1ng001_596f3e67
+      - _github.com/Ruk1ng001_65a5452e
       - _github.com/Ruk1ng001_69a8dce5
       - _github.com/Ruk1ng001_6a1d8ac5
       - _github.com/Ruk1ng001_6ff49bb1
       - _github.com/Ruk1ng001_7ba44fdd
       - _github.com/Ruk1ng001_8cb7b848
-      - _github.com/Ruk1ng001_UsfVIo5P
-      - _github.com/Ruk1ng001_b258829a
-      - _github.com/Ruk1ng001_bc3fd4a0
+      - _github.com/Ruk1ng001_e14bcb52
       - _github.com/Ruk1ng001_e3124dd7
       - _github.com/Ruk1ng001_e8ec75c1
       - _github.com/Ruk1ng001_ef2a0b94
+      - ⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_17df1b46
+      - ⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_3479193a
+      - ⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_456049ab
+      - ⚪🏳️[🎬🤖📺🔍]_github.com/Ruk1ng001_9acc716b
       - ⚪🏳️_github.com/Ruk1ng001_43f477b5
       - ⚪🏳️_github.com/Ruk1ng001_65add7bd
-      - ⚪🏳️_github.com/Ruk1ng001_bad2fc4e
-      - ⚪🏳️_github.com/Ruk1ng001_d4306ef9
       - ⚪🏳️_github.com/Ruk1ng001_f33562bf
   - name: 🎯全球直连
     type: select
